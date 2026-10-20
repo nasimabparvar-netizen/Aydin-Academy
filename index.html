@@ -1,0 +1,299 @@
+from pathlib import Path
+
+html = r'''<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#080d1b">
+<meta name="description" content="آیدین آکادمی؛ فضای هوشمند یادگیری زبان انگلیسی">
+<title>آیدین آکادمی | یادگیری هوشمند</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap');
+:root{color-scheme:dark;--bg:#080d1b;--panel:#101a2e;--panel2:#151f36;--line:#293957;--text:#f4f6ff;--muted:#9caccb;--blue:#76a8ff;--purple:#ac8bff;--green:#5de2b4;--red:#fb7185;--radius:19px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 75% -10%,#30275f 0,transparent 37%),var(--bg);color:var(--text);font-family:Vazirmatn,Tahoma,sans-serif}button,input,textarea,select{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid var(--blue);outline-offset:3px}button:disabled{opacity:.55;cursor:not-allowed;transform:none!important}
+.layout{display:grid;grid-template-columns:250px minmax(0,1fr);min-height:100vh}.sidebar{position:sticky;top:0;height:100vh;padding:25px 17px;background:#0a1120ef;border-left:1px solid var(--line);display:flex;flex-direction:column}.brand{display:flex;align-items:center;gap:11px;margin:0 5px 31px}.brand-icon{width:45px;height:45px;flex:0 0 45px;border-radius:15px;display:grid;place-items:center;font-size:23px;background:linear-gradient(135deg,#4f8cff,#9a69f7);box-shadow:0 8px 25px #6c71ff30}.brand-name{font-weight:800;font-size:19px}.brand-name span,.mobile-brand span{color:var(--blue)}.brand small{display:block;font-size:10px;color:var(--muted);font-weight:400}.nav-label{font-size:11px;color:#7889ab;margin:0 10px 10px}nav.main-nav{display:grid;gap:6px}.nav-btn{display:flex;align-items:center;gap:12px;width:100%;text-align:right;padding:12px 13px;border:1px solid transparent;border-radius:12px;background:transparent;color:var(--muted);transition:.2s}.nav-btn .nav-icon{width:23px;text-align:center;font-size:17px}.nav-btn:hover,.nav-btn.active{background:linear-gradient(100deg,#26375a,#1a2440);color:white;border-color:#364b72}.sidebar-bottom{margin-top:auto}.ai-status{padding:14px;border:1px solid #35476a;background:linear-gradient(135deg,#14213b,#211c40);border-radius:15px}.ai-status strong{font-size:13px}.ai-status p{font-size:11px;color:var(--muted);line-height:1.9;margin:7px 0}.dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);margin-left:6px}.profile-mini{display:flex;align-items:center;gap:10px;margin-top:17px;padding:10px}.avatar{width:39px;height:39px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(135deg,#4c8fff,#9b72f5);font-weight:800}
+main{min-width:0;width:100%;max-width:1500px;margin:auto;padding:29px clamp(16px,3vw,38px)}.mobile-header,.mobile-nav{display:none}.topbar{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:25px}.welcome h1{font-size:clamp(22px,3vw,31px);margin:0 0 5px}.welcome p{margin:0;color:var(--muted);font-size:13px}.top-actions{display:flex;align-items:center;gap:10px}.date-pill,.status-pill{padding:9px 12px;border:1px solid var(--line);border-radius:12px;color:var(--muted);font-size:12px;white-space:nowrap}.status-pill{color:var(--green);border-color:#285c51;background:#10332d55}
+.page{display:none;animation:appear .25s ease}.page.active{display:block}@keyframes appear{from{opacity:.45;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}.hero{position:relative;overflow:hidden;padding:clamp(23px,4vw,39px);border:1px solid #3a4777;border-radius:25px;background:linear-gradient(112deg,#172b50 0%,#292451 62%,#191b39 100%);box-shadow:0 16px 45px #00000015}.hero:before{content:"✦";position:absolute;left:5%;top:-48px;font-size:190px;color:#ffffff09;pointer-events:none}.hero-inner{position:relative;z-index:1;max-width:690px}.eyebrow{display:inline-flex;gap:8px;align-items:center;padding:6px 11px;border:1px solid #7588cb55;background:#ffffff0b;border-radius:30px;font-size:11px;color:#d8e3ff}.hero h2{font-size:clamp(27px,4vw,42px);line-height:1.55;margin:17px 0 8px}.gradient-text{background:linear-gradient(90deg,#a5d0ff,#c7a6ff);background-clip:text;-webkit-background-clip:text;color:transparent}.hero p{max-width:580px;color:#c4d1ee;line-height:2;font-size:13px}.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:23px}.btn{display:inline-flex;justify-content:center;align-items:center;gap:8px;padding:11px 16px;border-radius:12px;border:1px solid var(--line);background:#19243a;color:white;transition:.2s;font-size:13px}.btn:hover{transform:translateY(-1px);border-color:#718cbd}.btn.primary{border:0;background:linear-gradient(115deg,#609dff,#9778fa);color:white;font-weight:700;box-shadow:0 7px 20px #6579ef22}.btn.danger{border-color:#7f3346;color:#ffc3cf;background:#321b2a}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin:19px 0 28px}.card{min-width:0;padding:19px;border:1px solid var(--line);border-radius:var(--radius);background:linear-gradient(145deg,#121e33,#0e1628)}.stat-card{display:flex;gap:12px;align-items:center}.iconbox{flex:0 0 43px;width:43px;height:43px;display:grid;place-items:center;border-radius:14px;background:#223657;font-size:21px}.stat-number{font-size:25px;font-weight:800;line-height:1.4}.stat-label{font-size:11px;color:var(--muted)}.section-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:27px 0 14px}.section-head h2,.page-title{margin:0;font-size:20px}.section-head p{margin:4px 0 0;color:var(--muted);font-size:12px}.features{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.feature{transition:.2s}.feature:hover{transform:translateY(-3px);border-color:#4a6595}.feature .iconbox{margin-bottom:15px}.feature h3{font-size:15px;margin:0 0 6px}.feature p{font-size:12px;line-height:2;color:var(--muted);min-height:48px}.feature .btn{margin-top:5px}.page-intro{margin:8px 0 21px;color:var(--muted);font-size:13px;line-height:2}
+.field{display:block;width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:#0a1222;color:var(--text);margin:7px 0 15px;min-width:0}.field::placeholder{color:#71809e}label{font-size:12px;color:#c7d5ef}.chatbox{height:330px;overflow:auto;padding:14px;background:#0a1222;border:1px solid var(--line);border-radius:15px;margin:16px 0}.msg{padding:11px 14px;border-radius:13px;margin:9px 0;line-height:2;font-size:13px;white-space:pre-wrap;overflow-wrap:anywhere}.bot{background:#182642;margin-left:8%}.user{background:#30305a;margin-right:12%}.chat-form{display:flex;gap:9px;align-items:flex-start}.chat-form .field{flex:1;margin:0}
+.quiz-top{display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:12px}.progress{height:7px;border-radius:20px;background:#28344c;overflow:hidden;margin:14px 0 22px}.progress div{height:100%;background:linear-gradient(90deg,var(--blue),var(--purple));border-radius:20px;transition:width .3s}.quiz-question{font-size:20px;line-height:1.8}.quiz-option{display:block;width:100%;text-align:right;padding:13px 15px;border:1px solid var(--line);border-radius:12px;background:#111c30;color:white;margin:9px 0;transition:.15s}.quiz-option:hover:not(:disabled){border-color:var(--blue);background:#192946}.quiz-option.correct{border-color:var(--green);background:#10372d}.quiz-option.wrong{border-color:var(--red);background:#3a1d30}.feedback{font-size:13px;line-height:2;color:#c7d5ef;min-height:22px}.word-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.word-card h3{margin:0;font-size:20px;direction:ltr;text-align:right}.word-card p{color:var(--muted);font-size:13px}.word-card .btn{width:100%}.report-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.empty-note{color:var(--muted);font-size:12px;line-height:2}.divider{height:1px;background:var(--line);margin:22px 0}.notice{padding:13px 15px;border-radius:12px;background:#24203b;border:1px solid #504271;color:#d7d0ff;font-size:12px;line-height:2;margin:13px 0}.notice.error{background:#351c2a;border-color:#79384b;color:#ffd2dc}.notice.success{background:#12332d;border-color:#2b6758;color:#c8ffeb}.quiz-review-item{padding:14px;border:1px solid var(--line);border-radius:12px;margin:10px 0;background:#0c1527}.quiz-review-item p{font-size:12px;line-height:1.9;color:var(--muted);margin:6px 0}footer{text-align:center;color:#71809e;font-size:11px;padding:29px 0 5px}[hidden]{display:none!important}
+@media(min-width:1200px){.hero{min-height:255px;display:flex;align-items:center}}@media(max-width:1050px){.layout{grid-template-columns:215px minmax(0,1fr)}.sidebar{padding:22px 12px}.stats{gap:9px}.stat-card{padding:13px;gap:9px}.features{gap:10px}}
+@media(max-width:760px){.layout{display:block}.sidebar{display:none}.mobile-header{display:flex;position:sticky;top:0;z-index:100;align-items:center;justify-content:space-between;padding:12px 15px;background:#0a1120f5;border-bottom:1px solid var(--line);backdrop-filter:blur(18px)}.mobile-brand{display:flex;align-items:center;gap:9px;font-weight:800}.mobile-brand .brand-icon{width:37px;height:37px;flex-basis:37px;border-radius:12px;font-size:19px}.menu-toggle{width:43px;height:43px;border:1px solid var(--line);border-radius:12px;background:var(--panel);color:white;font-size:22px}.mobile-nav{position:fixed;inset:67px 12px auto 12px;z-index:99;padding:10px;border:1px solid var(--line);border-radius:17px;background:#101a2df7;box-shadow:0 20px 55px #0008;max-height:calc(100dvh - 85px);overflow:auto}.mobile-nav.open{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.mobile-nav .nav-btn{font-size:12px;padding:12px 9px}.mobile-nav .nav-icon{width:18px}.mobile-nav .nav-label{display:none}main{padding:18px 14px}.topbar{margin-bottom:18px}.welcome h1{font-size:22px}.date-pill{display:none}.hero{padding:23px 19px}.hero h2{font-size:29px}.stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:14px 0 25px}.stat-card{padding:13px}.stat-number{font-size:22px}.features{grid-template-columns:repeat(2,minmax(0,1fr))}.feature{padding:15px}.feature p{min-height:70px}.word-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.report-grid{grid-template-columns:1fr}.chat-form{flex-wrap:wrap}.chat-form .field{flex-basis:100%}.chat-form .btn{width:100%}}
+@media(max-width:390px){.features,.word-grid{grid-template-columns:1fr}.feature p{min-height:0}.hero h2{font-size:26px}.status-pill{font-size:10px;padding:8px}.welcome p{font-size:11px}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<header class="mobile-header"><div class="mobile-brand"><div class="brand-icon">✦</div><div>آیدین <span>آکادمی</span></div></div><button class="menu-toggle" id="mobileMenuToggle" aria-label="باز کردن منو" aria-expanded="false" aria-controls="mobileNav">☰</button></header>
+<nav class="mobile-nav" id="mobileNav" aria-label="منوی گوشی"></nav>
+<div class="layout">
+<aside class="sidebar">
+  <div class="brand"><div class="brand-icon">✦</div><div class="brand-name">آیدین <span>آکادمی</span><small>یادگیری هوشمند، پیشرفت واقعی</small></div></div>
+  <div class="nav-label">فضای آموزشی</div>
+  <nav class="main-nav" aria-label="منوی اصلی">
+    <button class="nav-btn active" data-page="home"><span class="nav-icon">⌂</span> پیشخوان</button>
+    <button class="nav-btn" data-page="tutor"><span class="nav-icon">✦</span> آموزگار هوشمند</button>
+    <button class="nav-btn" data-page="quiz"><span class="nav-icon">◈</span> آزمون انگلیسی</button>
+    <button class="nav-btn" data-page="vocab"><span class="nav-icon">▤</span> دفتر واژگان</button>
+    <button class="nav-btn" data-page="progress"><span class="nav-icon">↗</span> گزارش پیشرفت</button>
+    <button class="nav-btn" data-page="account"><span class="nav-icon">◎</span> حساب کاربری</button>
+  </nav>
+  <div class="sidebar-bottom"><div class="ai-status"><strong>✦ آموزگار هوشمند</strong><p><span class="dot"></span><span id="aiStatusText">آمادهٔ بررسی اتصال آموزگار</span></p></div><div class="profile-mini"><div class="avatar">آ</div><div><strong id="sideName">زبان‌آموز</strong><small>حساب محلی آزمایشی</small></div></div></div>
+</aside>
+<main>
+<header class="topbar"><div class="welcome"><h1 id="greeting">درود، به آیدین آکادمی خوش آمدی 👋</h1><p>امروز یک گام به انگلیسی بهتر نزدیک‌تر شو.</p></div><div class="top-actions"><span class="status-pill">✦ نسخهٔ آغازین</span><span class="date-pill" id="today"></span></div></header>
+<section id="home" class="page active">
+  <div class="hero"><div class="hero-inner"><span class="eyebrow">✦ آیندهٔ یادگیری از اینجا آغاز می‌شود</span><h2>باهوش‌تر یاد بگیر،<br><span class="gradient-text">مطمئن‌تر پیش برو.</span></h2><p>فضایی برای یادگیری انگلیسی؛ از تمرین واژگان و دستور زبان تا آزمون و آموزگار هوشمند.</p><div class="actions"><button class="btn primary" data-go="tutor">✦ ورود به آموزگار</button><button class="btn" data-go="quiz">شروع آزمون ←</button></div></div></div>
+  <div class="stats"><div class="card stat-card"><div class="iconbox">📚</div><div><div class="stat-number" id="studyCount">۰</div><div class="stat-label">واژه‌های مرورشده</div></div></div><div class="card stat-card"><div class="iconbox">🎯</div><div><div class="stat-number" id="quizCount">۰</div><div class="stat-label">آزمون‌های انجام‌شده</div></div></div><div class="card stat-card"><div class="iconbox">⭐</div><div><div class="stat-number" id="bestScore">—</div><div class="stat-label">بهترین نتیجه</div></div></div><div class="card stat-card"><div class="iconbox">📈</div><div><div class="stat-number" id="averageScore">—</div><div class="stat-label">میانگین نمره</div></div></div></div>
+  <div class="section-head"><div><h2>فضاهای یادگیری</h2><p>همه‌چیز برای یک پیشرفت واقعی</p></div></div>
+  <div class="features">
+    <article class="card feature"><div class="iconbox">🤖</div><h3>آموزگار هوشمند</h3><p>پرسش بپرس، نوشته‌ات را بررسی کن و توضیح روشن بگیر.</p><button class="btn" data-go="tutor">ورود به آموزگار ←</button></article>
+    <article class="card feature"><div class="iconbox">📝</div><h3>آزمون انگلیسی</h3><p>بازهٔ درس، شمار پرسش‌ها و گونهٔ آزمون را خودت برگزین.</p><button class="btn" data-go="quiz">آغاز آزمون ←</button></article>
+    <article class="card feature"><div class="iconbox">📖</div><h3>دفتر واژگان</h3><p>واژه‌های کاربردی را یاد بگیر و برای مرور نگه دار.</p><button class="btn" data-go="vocab">مرور واژه‌ها ←</button></article>
+    <article class="card feature"><div class="iconbox">🎤</div><h3>تمرین گفتاری</h3><p>از آموزگار بخواه مکالمه‌ای متناسب با سطح تو بسازد.</p><button class="btn" data-go="tutor">تمرین با آموزگار ←</button></article>
+    <article class="card feature"><div class="iconbox">✍️</div><h3>تمرین نوشتاری</h3><p>نوشته‌هایت را برای بررسی و اصلاح بفرست.</p><button class="btn" data-go="tutor">آغاز نوشتن ←</button></article>
+    <article class="card feature"><div class="iconbox">🏫</div><h3>کلاس اختصاصی</h3><p>جایگاه آغازین برای امکانات آیندهٔ کلاس و تکالیف.</p><button class="btn" data-go="account">حساب من ←</button></article>
+  </div>
+</section>
+<section id="tutor" class="page"><h2 class="page-title">✦ آموزگار هوشمند انگلیسی</h2><p class="page-intro">دربارهٔ دستور زبان بپرس، نوشته‌ات را بررسی کن و پاسخ آموزشی بگیر.</p><div class="card"><label for="level">سطح یادگیری</label><select id="level" class="field"><option value="مبتدی">مبتدی</option><option value="پایه">پایه</option><option value="متوسط">متوسط</option><option value="پیشرفته">پیشرفته</option></select><div class="chatbox" id="chat" aria-live="polite"><div class="msg bot">درود! 🌟 دربارهٔ واژگان، دستور زبان یا جمله‌سازی بپرس تا با هم یاد بگیریم.</div></div><form id="chatForm" class="chat-form"><input id="question" class="field" maxlength="2000" placeholder="مثلاً تفاوت did و was را توضیح بده..." aria-label="پرسش تو" required><button class="btn primary" id="sendQuestion" type="submit">فرستادن ↑</button></form><div class="notice">برای پاسخ‌گویی، سرور محلی آموزگار باید روشن باشد. کلیدهای محرمانه یا اطلاعات خصوصی را در گفت‌وگو ننویس.</div></div></section>
+<section id="quiz" class="page"><h2 class="page-title">◈ آزمون‌ساز انگلیسی</h2><p class="page-intro">بازهٔ درس و گونهٔ پرسش‌ها را برگزین و آزمون ویژهٔ خودت را بساز.</p>
+  <div class="card" id="quizSetup"><form id="quizSetupForm">
+    <label for="lessonFrom">از درس</label><select id="lessonFrom" class="field"><option value="1">درس ۱</option><option value="2">درس ۲</option><option value="3">درس ۳</option><option value="4">درس ۴</option><option value="5">درس ۵</option><option value="6">درس ۶</option></select>
+    <label for="lessonTo">تا درس</label><select id="lessonTo" class="field"><option value="1">درس ۱</option><option value="2">درس ۲</option><option value="3">درس ۳</option><option value="4" selected>درس ۴</option><option value="5">درس ۵</option><option value="6">درس ۶</option></select>
+    <label for="questionCount">شمار پرسش‌ها</label><select id="questionCount" class="field"><option value="5">۵ پرسش</option><option value="10" selected>۱۰ پرسش</option><option value="15">۱۵ پرسش</option><option value="20">۲۰ پرسش</option></select>
+    <label for="questionType">گونهٔ آزمون</label><select id="questionType" class="field"><option value="mixed">ترکیبی؛ واژگان و دستور زبان</option><option value="vocabulary">فقط واژگان</option><option value="grammar">فقط دستور زبان</option></select>
+    <p id="quizSetupMessage" class="notice" hidden aria-live="polite"></p><button class="btn primary" type="submit">ساخت آزمون ✦</button>
+  </form></div>
+  <div class="card" id="quizPlay" hidden><div class="quiz-top"><span id="quizProgress"></span><span id="scoreLabel">پاسخ درست: ۰</span></div><div class="progress"><div id="quizBar" style="width:0"></div></div><h3 id="questionTitle" class="quiz-question"></h3><div id="options"></div><p id="feedback" class="feedback" aria-live="polite"></p><button class="btn primary" id="next" type="button" disabled>پرسش بعدی ←</button><div id="quizReview" hidden><div class="divider"></div><h3>بررسی پاسخ‌ها</h3><div id="quizReviewList"></div></div></div>
+</section>
+<section id="vocab" class="page"><h2 class="page-title">📖 دفتر واژگان</h2><p class="page-intro">واژه را مرور کن و هنگامی که یادش گرفتی، آن را نشان‌گذاری کن.</p><div class="word-grid" id="words"></div></section>
+<section id="progress" class="page"><h2 class="page-title">↗ گزارش پیشرفت</h2><p class="page-intro">خلاصه‌ای از تمرین‌های انجام‌شده در این مرورگر.</p><div class="report-grid"><div class="card"><div class="iconbox">🎯</div><p class="stat-label">تعداد آزمون‌ها</p><div class="stat-number" id="reportQuizzes">۰</div></div><div class="card"><div class="iconbox">⭐</div><p class="stat-label">بهترین نمره</p><div class="stat-number" id="reportBest">—</div></div><div class="card"><div class="iconbox">📚</div><p class="stat-label">واژه‌های مرورشده</p><div class="stat-number" id="reportWords">۰</div></div><div class="card"><h3>پیشرفت در بهترین آزمون</h3><div class="progress"><div id="reportBar" style="width:0"></div></div><p class="empty-note">با تمرین پیوسته نتیجه‌ات را بهتر کن.</p></div></div><div class="card" style="margin-top:14px"><h3>مدیریت اطلاعات آزمایشی</h3><p class="empty-note">اطلاعات فعلی فقط در همین مرورگر نگهداری می‌شود.</p><button class="btn danger" id="resetProgress" type="button">پاک‌کردن پیشرفت محلی</button></div></section>
+<section id="account" class="page"><h2 class="page-title">◎ حساب کاربری</h2><p class="page-intro">نام نمایشی خود را انتخاب کن. ورود با گوگل از راه Firebase انجام می‌شود.</p><div class="card"><label for="name">نام نمایشی</label><input class="field" id="name" maxlength="40" placeholder="نام دلخواه تو"><button class="btn primary" id="saveName" type="button">ذخیرهٔ نام</button><div class="divider"></div><h3>ورود با گوگل</h3><p class="empty-note">دامنهٔ سایت باید در Firebase Authentication مجاز شده باشد.</p><button class="btn primary" id="googleSignInBtn" type="button">G · ورود با گوگل</button><p id="authStatus" class="empty-note" aria-live="polite">هنوز وارد حساب نشده‌ای.</p><button class="btn" id="googleSignOutBtn" type="button" hidden>خروج از حساب</button><div class="notice">در این نسخه، ورود با گوگل هنوز پیشرفت آموزشی را میان دستگاه‌ها همگام‌سازی نمی‌کند.</div></div></section>
+<footer>آیدین آکادمی · یادگیری بهتر، آیندهٔ روشن‌تر ✦</footer>
+</main></div>
+<script>
+'use strict';
+const $ = id => document.getElementById(id);
+const fa = n => Number(n).toLocaleString('fa-IR');
+
+/* ناوبری دسکتاپ و گوشی */
+const mobileNav = $('mobileNav');
+const navButtons = [...document.querySelectorAll('.main-nav [data-page]')];
+navButtons.forEach(button => { const copy = button.cloneNode(true); copy.classList.remove('active'); mobileNav.append(copy); });
+function showPage(id) {
+  document.querySelectorAll('.page').forEach(page => page.classList.toggle('active', page.id === id));
+  document.querySelectorAll('[data-page]').forEach(button => button.classList.toggle('active', button.dataset.page === id));
+  mobileNav.classList.remove('open'); $('mobileMenuToggle').textContent = '☰'; $('mobileMenuToggle').setAttribute('aria-expanded','false');
+  window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+}
+document.querySelectorAll('[data-page]').forEach(button => button.addEventListener('click',()=>showPage(button.dataset.page)));
+document.querySelectorAll('[data-go]').forEach(button => button.addEventListener('click',()=>showPage(button.dataset.go)));
+$('mobileMenuToggle').addEventListener('click',()=>{const opened=mobileNav.classList.toggle('open');$('mobileMenuToggle').textContent=opened?'×':'☰';$('mobileMenuToggle').setAttribute('aria-expanded',String(opened));});
+$('today').textContent = new Intl.DateTimeFormat('fa-IR',{weekday:'long',day:'numeric',month:'long'}).format(new Date());
+
+/* آمار محلی؛ داده‌های ذخیره‌شده اعتبارسنجی می‌شوند */
+const defaultStats = {quizzes:0,best:0,total:0,words:[],name:''};
+let stats = {...defaultStats};
+try {
+  const saved = JSON.parse(localStorage.getItem('aydinAcademyStats') || '{}');
+  if (saved && typeof saved === 'object' && !Array.isArray(saved)) stats = {...defaultStats,...saved};
+  if (!Number.isSafeInteger(stats.quizzes) || stats.quizzes < 0) stats.quizzes=0;
+  if (!Number.isFinite(stats.best) || stats.best < 0 || stats.best > 100) stats.best=0;
+  if (!Number.isFinite(stats.total) || stats.total < 0) stats.total=0;
+  if (!Array.isArray(stats.words)) stats.words=[];
+  stats.words=stats.words.filter(w=>typeof w==='string');
+  if (typeof stats.name!=='string') stats.name='';
+} catch { stats={...defaultStats}; }
+function updateStats() {
+  $('studyCount').textContent=fa(stats.words.length); $('quizCount').textContent=fa(stats.quizzes);
+  $('bestScore').textContent=stats.quizzes?fa(stats.best)+'٪':'—';
+  $('averageScore').textContent=stats.quizzes?fa(Math.round(stats.total/stats.quizzes))+'٪':'—';
+  $('reportQuizzes').textContent=fa(stats.quizzes); $('reportBest').textContent=stats.quizzes?fa(stats.best)+'٪':'—';
+  $('reportWords').textContent=fa(stats.words.length); $('reportBar').style.width=Math.min(100,stats.best)+'%';
+  $('greeting').textContent=stats.name?'درود، '+stats.name+' 👋':'درود، به آیدین آکادمی خوش آمدی 👋';
+  $('sideName').textContent=stats.name||'زبان‌آموز';
+  if(document.activeElement!==$('name')) $('name').value=stats.name;
+}
+function saveStats() {
+  try {localStorage.setItem('aydinAcademyStats',JSON.stringify(stats));}
+  catch(error){console.warn('ذخیرهٔ محلی در دسترس نیست.',error);}
+  updateStats();
+}
+$('saveName').addEventListener('click',()=>{stats.name=$('name').value.trim().slice(0,40);saveStats();});
+
+/* دفتر واژگان */
+const vocabulary=[
+ ['Learn','یاد گرفتن'],['Improve','بهتر کردن'],['Knowledge','دانش'],['Practice','تمرین کردن'],
+ ['Achieve','دست یافتن'],['Curious','کنجکاو'],['Confident','بااعتمادبه‌نفس'],['Progress','پیشرفت'],
+ ['Challenge','چالش'],['Explain','توضیح دادن'],['Remember','به یاد آوردن'],['Understand','فهمیدن']
+];
+function renderWords(){
+ const container=$('words');container.replaceChildren();
+ vocabulary.forEach(([english,persian])=>{
+  const card=document.createElement('article');card.className='card word-card';
+  const title=document.createElement('h3');title.textContent=english;
+  const meaning=document.createElement('p');meaning.textContent=persian;
+  const button=document.createElement('button');button.className='btn';button.type='button';
+  const updateButton=()=>{const learned=stats.words.includes(english);button.textContent=learned?'✓ یاد گرفته شد':'بلدم / مرور شد';button.setAttribute('aria-pressed',String(learned));};
+  updateButton();button.addEventListener('click',()=>{stats.words=stats.words.includes(english)?stats.words.filter(w=>w!==english):[...stats.words,english];saveStats();updateButton();});
+  card.append(title,meaning,button);container.append(card);
+ });
+}
+
+/* بانک نمونهٔ آزمون؛ محتوای آن هنوز به کتاب درسی پیوند نخورده است. */
+const questionBank=[
+ {lesson:1,type:'vocabulary',q:'What does "Learn" mean?',o:['فراموش کردن','یاد گرفتن','دویدن','خوابیدن'],a:1,e:'Learn یعنی یاد گرفتن.'},
+ {lesson:1,type:'vocabulary',q:'Choose the opposite of "big".',o:['Small','Tall','Long','Fast'],a:0,e:'Small یعنی کوچک؛ مخالف Big.'},
+ {lesson:1,type:'grammar',q:'She ___ a student.',o:['am','are','is','be'],a:2,e:'برای She از is استفاده می‌کنیم.'},
+ {lesson:2,type:'vocabulary',q:'What does "Improve" mean?',o:['بهتر کردن','شکستن','بستن','فروختن'],a:0,e:'Improve یعنی بهتر کردن.'},
+ {lesson:2,type:'vocabulary',q:'Choose the correct meaning of "Quick".',o:['آرام','سریع','خسته','گرسنه'],a:1,e:'Quick یعنی سریع.'},
+ {lesson:2,type:'grammar',q:'They ___ football every Friday.',o:['plays','playing','play','played'],a:2,e:'برای They در حال ساده از play استفاده می‌کنیم.'},
+ {lesson:3,type:'vocabulary',q:'What does "Remember" mean?',o:['به یاد آوردن','پرسیدن','پریدن','پختن'],a:0,e:'Remember یعنی به یاد آوردن.'},
+ {lesson:3,type:'vocabulary',q:'Choose the opposite of "hot".',o:['Warm','Cold','Dry','Bright'],a:1,e:'Cold یعنی سرد؛ مخالف Hot.'},
+ {lesson:3,type:'grammar',q:'I ___ to school yesterday.',o:['go','goes','went','going'],a:2,e:'گذشتهٔ Go برابر Went است.'},
+ {lesson:4,type:'vocabulary',q:'What does "Knowledge" mean?',o:['دانش','پنجره','مسافرت','لباس'],a:0,e:'Knowledge یعنی دانش.'},
+ {lesson:4,type:'vocabulary',q:'What does "Practice" mean?',o:['تمرین','پاسخ','صدا','رنگ'],a:0,e:'Practice یعنی تمرین.'},
+ {lesson:4,type:'grammar',q:'What ___ you do yesterday?',o:['do','does','did','are'],a:2,e:'برای پرسش دربارهٔ گذشته از Did استفاده می‌کنیم.'},
+ {lesson:5,type:'vocabulary',q:'What does "Confident" mean?',o:['بااعتمادبه‌نفس','عصبانی','خواب‌آلود','تنها'],a:0,e:'Confident یعنی بااعتمادبه‌نفس.'},
+ {lesson:5,type:'vocabulary',q:'Choose the correct meaning of "Explain".',o:['توضیح دادن','پنهان کردن','گم کردن','خریدن'],a:0,e:'Explain یعنی توضیح دادن.'},
+ {lesson:5,type:'grammar',q:'They ___ playing now.',o:['is','am','are','was'],a:2,e:'برای They در حال استمراری از are استفاده می‌کنیم.'},
+ {lesson:6,type:'vocabulary',q:'What does "Progress" mean?',o:['پیشرفت','پرسش','پایان','پاسخ'],a:0,e:'Progress یعنی پیشرفت.'},
+ {lesson:6,type:'vocabulary',q:'What does "Challenge" mean?',o:['چالش','پنجره','مداد','آب'],a:0,e:'Challenge یعنی چالش.'},
+ {lesson:6,type:'grammar',q:'He has ___ apple.',o:['a','an','are','some of'],a:1,e:'پیش از صدای واکه در apple از an استفاده می‌کنیم.'}
+];
+let quizQuestions=[],quizAnswers=[],qi=0,score=0,answered=false,finished=false;
+function shuffle(items){const result=[...items];for(let i=result.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}return result;}
+$('quizSetupForm').addEventListener('submit',event=>{
+ event.preventDefault();
+ const from=Number($('lessonFrom').value),to=Number($('lessonTo').value),count=Number($('questionCount').value),type=$('questionType').value,message=$('quizSetupMessage');
+ if(from>to){message.hidden=false;message.className='notice error';message.textContent='درس آغازین نمی‌تواند پس از درس پایانی باشد.';return;}
+ const pool=questionBank.filter(q=>q.lesson>=from&&q.lesson<=to&&(type==='mixed'||q.type===type));
+ if(!pool.length){message.hidden=false;message.className='notice error';message.textContent='برای این گزینش هنوز پرسشی آماده نشده است.';return;}
+ quizQuestions=shuffle(pool).slice(0,count);quizAnswers=[];qi=0;score=0;answered=false;finished=false;
+ message.hidden=false;message.className='notice';message.textContent=quizQuestions.length<count?`در این بازه فقط ${fa(quizQuestions.length)} پرسش آماده است؛ آزمون با همین شمار آغاز می‌شود.`:'آماده‌ای؟ موفق باشی!';
+ $('quizSetup').hidden=true;$('quizPlay').hidden=false;$('quizReview').hidden=true;renderQuestion();
+});
+function renderQuestion(){
+ answered=false;finished=false;const q=quizQuestions[qi];
+ $('feedback').textContent='';$('next').disabled=true;$('next').textContent='پرسش بعدی ←';
+ $('scoreLabel').textContent='پاسخ درست: '+fa(score);
+ $('quizProgress').textContent='پرسش '+fa(qi+1)+' از '+fa(quizQuestions.length);
+ $('quizBar').style.width=(qi/quizQuestions.length*100)+'%';$('questionTitle').textContent=q.q;
+ const container=$('options');container.replaceChildren();
+ q.o.forEach((option,index)=>{const button=document.createElement('button');button.type='button';button.className='quiz-option';button.textContent=option;button.addEventListener('click',()=>chooseAnswer(index));container.append(button);});
+}
+function chooseAnswer(index){
+ if(answered||finished)return;answered=true;const q=quizQuestions[qi],correct=index===q.a;quizAnswers[qi]=index;if(correct)score++;
+ document.querySelectorAll('#options .quiz-option').forEach((button,i)=>{button.disabled=true;if(i===q.a)button.classList.add('correct');else if(i===index)button.classList.add('wrong');});
+ $('scoreLabel').textContent='پاسخ درست: '+fa(score);
+ $('feedback').textContent=(correct?'آفرین! پاسخ درست است. ':'پاسخ درست: '+q.o[q.a]+'. ')+q.e;
+ $('next').disabled=false;if(qi===quizQuestions.length-1)$('next').textContent='دیدن نتیجهٔ آزمون';
+}
+function finishQuiz(){
+ finished=true;const result=Math.round(score/quizQuestions.length*100);
+ stats.quizzes++;stats.total+=result;stats.best=Math.max(stats.best,result);saveStats();
+ $('quizProgress').textContent='آزمون به پایان رسید';$('quizBar').style.width='100%';
+ $('questionTitle').textContent='نتیجه: '+fa(score)+' از '+fa(quizQuestions.length)+' — '+fa(result)+'٪';
+ $('options').replaceChildren();$('feedback').textContent=result>=80?'عالی بود! 🌟 به همین روند ادامه بده.':'پاسخ‌ها را بررسی کن و دوباره تمرین کن.';
+ const review=$('quizReviewList');review.replaceChildren();
+ quizQuestions.forEach((q,index)=>{
+  const item=document.createElement('div');item.className='quiz-review-item';
+  const title=document.createElement('strong');title.textContent=fa(index+1)+'. '+q.q;
+  const selected=quizAnswers[index];const answer=document.createElement('p');answer.textContent='پاسخ تو: '+(selected===undefined?'بدون پاسخ':q.o[selected]);
+  const correct=document.createElement('p');correct.textContent='پاسخ درست: '+q.o[q.a];
+  const explanation=document.createElement('p');explanation.textContent=q.e;
+  item.append(title,answer,correct,explanation);review.append(item);
+ });
+ $('quizReview').hidden=false;$('next').disabled=false;$('next').textContent='بازگشت به تنظیمات آزمون';
+}
+$('next').addEventListener('click',()=>{
+ if(finished){$('quizPlay').hidden=true;$('quizSetup').hidden=false;$('quizSetupMessage').hidden=true;return;}
+ if(!answered)return;if(qi<quizQuestions.length-1){qi++;renderQuestion();}else finishQuiz();
+});
+
+/* آموزگار: کلید Gemini فقط باید در server.js/.env سمت سرور باشد. */
+$('chatForm').addEventListener('submit',async event=>{
+ event.preventDefault();const input=$('question'),question=input.value.trim();if(!question)return;
+ const box=$('chat'),sendButton=$('sendQuestion');
+ const user=document.createElement('div');user.className='msg user';user.textContent=question;
+ const response=document.createElement('div');response.className='msg bot';response.textContent='در حال فکرکردن…';
+ box.append(user,response);input.value='';sendButton.disabled=true;sendButton.textContent='در حال پاسخ‌گویی…';box.scrollTop=box.scrollHeight;
+ try{
+  const result=await fetch('/api/tutor',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question,level:$('level').value})});
+  let data;try{data=await result.json();}catch{throw new Error('پاسخ سرور قابل خواندن نیست.');}
+  if(!result.ok)throw new Error(data.error||'پاسخ‌گویی انجام نشد.');
+  response.textContent=typeof data.answer==='string'&&data.answer.trim()?data.answer:'پاسخی دریافت نشد.';
+ }catch(error){
+  console.error('Tutor error:',error);
+  response.textContent='ارتباط با آموزگار برقرار نشد. اگر سایت را با GitHub Pages باز کرده‌ای، این نشانی به سرور محلی وصل نیست؛ برای آموزگار باید API امن روی یک سرور در دسترس منتشر شود. برای آزمایش محلی، سرور و صفحه را از همان نشانی و درگاه اجرا کن.';
+ }finally{sendButton.disabled=false;sendButton.textContent='فرستادن ↑';box.scrollTop=box.scrollHeight;}
+});
+
+/* پاک‌کردن پیشرفت محلی */
+$('resetProgress').addEventListener('click',()=>{
+ if(!confirm('همهٔ آزمون‌ها و واژه‌های ذخیره‌شده پاک شوند؟'))return;
+ stats={...defaultStats,name:stats.name};saveStats();renderWords();
+ quizQuestions=[];quizAnswers=[];qi=0;score=0;answered=false;finished=false;
+ $('quizPlay').hidden=true;$('quizSetup').hidden=false;$('quizSetupMessage').hidden=true;
+});
+
+/* بررسی دسترسی پایه به سرور؛ نبودن آن نباید کل سایت را از کار بیندازد. */
+(async()=>{
+ try{const response=await fetch('/api/health',{cache:'no-store'});if(!response.ok)throw new Error('health');const data=await response.json();$('aiStatusText').textContent=data.aiReady?'آمادهٔ پاسخ‌گویی':'سرور روشن است؛ هوش مصنوعی تنظیم نشده';}
+ catch{$('aiStatusText').textContent='آموزگار فقط با سرور فعال کار می‌کند';}
+})();
+renderWords();updateStats();
+</script>
+<script type="module">
+const loginBtn=document.getElementById('googleSignInBtn'),logoutBtn=document.getElementById('googleSignOutBtn'),status=document.getElementById('authStatus');
+/* پیکربندی Firebase از تنظیمات پروژهٔ خودت است؛ کلیدهای محرمانهٔ سرور را اینجا قرار نده. */
+const firebaseConfig={
+ apiKey:'AIzaSyC-7Sjlq4tu9uNjRm1oCZwPqvtYh3bmG8Y',
+ authDomain:'aydin-academy.firebaseapp.com',
+ projectId:'aydin-academy',
+ storageBucket:'aydin-academy.firebasestorage.app',
+ messagingSenderId:'559770064849',
+ appId:'1:559770064849:web:4890e869e5dd9b1fb8f2f0'
+};
+try{
+ const [{initializeApp},{getAuth,GoogleAuthProvider,signInWithPopup,signOut,onAuthStateChanged}]=await Promise.all([
+  import('https://www.gstatic.com/firebasejs/13.0.0/firebase-app.js'),
+  import('https://www.gstatic.com/firebasejs/13.0.0/firebase-auth.js')
+ ]);
+ const app=initializeApp(firebaseConfig),auth=getAuth(app),provider=new GoogleAuthProvider();
+ provider.setCustomParameters({prompt:'select_account'});auth.languageCode='fa';
+ loginBtn.addEventListener('click',async()=>{
+  loginBtn.disabled=true;status.textContent='در حال بازکردن پنجرهٔ ورود گوگل…';
+  try{await signInWithPopup(auth,provider);}
+  catch(error){
+   console.error('Firebase sign-in error:',error.code);
+   if(error.code==='auth/unauthorized-domain')status.textContent='این نشانی در Firebase مجاز نشده است؛ دامنه را در تنظیمات Authentication بررسی کن.';
+   else if(error.code==='auth/popup-blocked')status.textContent='مرورگر پنجرهٔ ورود را مسدود کرده است.';
+   else if(error.code==='auth/popup-closed-by-user')status.textContent='پنجرهٔ ورود بسته شد؛ هر زمان خواستی دوباره تلاش کن.';
+   else status.textContent='ورود انجام نشد؛ اتصال و تنظیمات Firebase را بررسی کن.';
+  }finally{loginBtn.disabled=false;}
+ });
+ logoutBtn.addEventListener('click',async()=>{try{await signOut(auth);}catch(error){console.error('Firebase sign-out error:',error.code);status.textContent='خروج انجام نشد؛ دوباره تلاش کن.';}});
+ onAuthStateChanged(auth,user=>{
+  if(user){
+   const displayName=user.displayName||'زبان‌آموز';status.textContent='درود '+displayName+'! ورود با گوگل انجام شد.';
+   loginBtn.hidden=true;logoutBtn.hidden=false;
+   document.getElementById('sideName').textContent=displayName;document.getElementById('greeting').textContent='درود، '+displayName+' 👋';
+  }else{
+   status.textContent='هنوز وارد حساب نشده‌ای.';loginBtn.hidden=false;logoutBtn.hidden=true;
+   const savedName=(()=>{try{return JSON.parse(localStorage.getItem('aydinAcademyStats')||'{}').name||'';}catch{return '';}})();
+   document.getElementById('greeting').textContent=savedName?'درود، '+savedName+' 👋':'درود، به آیدین آکادمی خوش آمدی 👋';
+  }
+ });
+}catch(error){
+ console.error('Firebase initialization error:',error);
+ status.textContent='اتصال Firebase برقرار نشد؛ تنظیمات پروژه یا دسترسی شبکه را بررسی کن.';
+ loginBtn.disabled=true;
+}
+</script>
+</body>
+</html>
+'''
+path = Path('/mnt/data/index.html')
+path.write_text(html, encoding='utf-8')
+print(f'فایل کامل ساخته شد: {path}\nاندازه: {path.stat().st_size:,} بایت\nخطوط: {len(html.splitlines()):,}')
