@@ -72,7 +72,7 @@ main{min-width:0;width:100%;max-width:1500px;margin:auto;padding:29px clamp(16px
 <section id="account" class="page"><h2 class="page-title">◎ حساب کاربری</h2><p class="page-intro">نام نمایشی خود را انتخاب کن. ورود با گوگل از راه Firebase انجام می‌شود.</p><div class="card"><label for="name">نام نمایشی</label><input class="field" id="name" maxlength="40" placeholder="نام دلخواه تو"><button class="btn primary" id="saveName" type="button">ذخیرهٔ نام</button><div class="divider"></div><h3>ورود با گوگل</h3><p class="empty-note">دامنهٔ سایت باید در Firebase Authentication مجاز شده باشد.</p><button class="btn primary" id="googleSignInBtn" type="button">G · ورود با گوگل</button><p id="authStatus" class="empty-note" aria-live="polite">هنوز وارد حساب نشده‌ای.</p><button class="btn" id="googleSignOutBtn" type="button" hidden>خروج از حساب</button><div class="notice">در این نسخه، ورود با گوگل هنوز پیشرفت آموزشی را میان دستگاه‌ها همگام‌سازی نمی‌کند.</div></div></section>
 <footer>آیدین آکادمی · یادگیری بهتر، آیندهٔ روشن‌تر ✦</footer>
 </main></div>
-<script>
+<script type="module">
 'use strict';
 const $ = id => document.getElementById(id);
 const fa = n => Number(n).toLocaleString('fa-IR');
@@ -541,13 +541,17 @@ const TUTOR_API = 'https://aydin-academy-test.aydin-k-1403.workers.dev';
   }
 })();
 
-const firebaseConfig={
- apiKey:'AIzaSyC-7Sjlq4tu9uNjRm1oCZwPqvtYh3bmG8Y',
- authDomain:'aydin-academy.firebaseapp.com',
- projectId:'aydin-academy',
- storageBucket:'aydin-academy.firebasestorage.app',
- messagingSenderId:'559770064849',
- appId:'1:559770064849:web:4890e869e5dd9b1fb8f2f0'
+const loginBtn = $('googleSignInBtn');
+const logoutBtn = $('googleSignOutBtn');
+const status = $('authStatus');
+
+const firebaseConfig = {
+  apiKey: 'AIzaSyC-7Sjlq4tu9uNjRm1oCZwPqvtYh3bmG8Y',
+  authDomain: 'aydin-academy.firebaseapp.com',
+  projectId: 'aydin-academy',
+  storageBucket: 'aydin-academy.firebasestorage.app',
+  messagingSenderId: '559770064849',
+  appId: '1:559770064849:web:4890e869e5dd9b1fb8f2f0'
 };
 try{
  const [{initializeApp},{getAuth,GoogleAuthProvider,signInWithPopup,signOut,onAuthStateChanged}]=await Promise.all([
