@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#080d1b">
 <meta name="description" content="آیدین آکادمی؛ فضای هوشمند یادگیری زبان انگلیسی">
-<title>آیدین آکادمی | یادگیری هوشمند</title>
+<link rel="icon" type="image/png" href="./aydin-academy-logo.png.png">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap');
 :root{color-scheme:dark;--bg:#080d1b;--panel:#101a2e;--panel2:#151f36;--line:#293957;--text:#f4f6ff;--muted:#9caccb;--blue:#76a8ff;--purple:#ac8bff;--green:#5de2b4;--red:#fb7185;--radius:19px}
@@ -482,13 +482,21 @@ $('chatForm').addEventListener('submit',async event=>{
  const response=document.createElement('div');response.className='msg bot';response.textContent='در حال فکرکردن…';
  box.append(user,response);input.value='';sendButton.disabled=true;sendButton.textContent='در حال پاسخ‌گویی…';box.scrollTop=box.scrollHeight;
  try{
-  const result=await fetch('/api/tutor',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question,level:$('level').value})});
+  
+const result = await fetch('https://aydin-academy-test.aydin-k-1403.workers.dev/api/tutor', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    question: `سطح زبان‌آموز: ${$('level').value}\nپرسش: ${question}`
+  })
+});
+
   let data;try{data=await result.json();}catch{throw new Error('پاسخ سرور قابل خواندن نیست.');}
   if(!result.ok)throw new Error(data.error||'پاسخ‌گویی انجام نشد.');
   response.textContent=typeof data.answer==='string'&&data.answer.trim()?data.answer:'پاسخی دریافت نشد.';
  }catch(error){
   console.error('Tutor error:',error);
-  response.textContent='ارتباط با آموزگار برقرار نشد. اگر سایت را با GitHub Pages باز کرده‌ای، این نشانی به سرور محلی وصل نیست؛ برای آموزگار باید API امن روی یک سرور در دسترس منتشر شود. برای آزمایش محلی، سرور و صفحه را از همان نشانی و درگاه اجرا کن.';
+  response.textContent = 'ارتباط با آموزگار برقرار نشد. اینترنت، دسترسی API یا سهمیهٔ هوش مصنوعی را بررسی کن و دوباره بکوش.';
  }finally{sendButton.disabled=false;sendButton.textContent='فرستادن ↑';box.scrollTop=box.scrollHeight;}
 });
 
@@ -500,16 +508,39 @@ $('resetProgress').addEventListener('click',()=>{
  $('quizPlay').hidden=true;$('quizSetup').hidden=false;$('quizSetupMessage').hidden=true;
 });
 
-/* بررسی دسترسی پایه به سرور؛ نبودن آن نباید کل سایت را از کار بیندازد. */
-(async()=>{
- try{const response=await fetch('/api/health',{cache:'no-store'});if(!response.ok)throw new Error('health');const data=await response.json();$('aiStatusText').textContent=data.aiReady?'آمادهٔ پاسخ‌گویی':'سرور روشن است؛ هوش مصنوعی تنظیم نشده';}
- catch{$('aiStatusText').textContent='آموزگار فقط با سرور فعال کار می‌کند';$('tutorOffline').hidden=false;$('question').disabled=true;$('sendQuestion').disabled=true;$('sendQuestion').textContent='نیازمند سرور';}
+
+/* بررسی دسترسی به آموزگار ابری */
+const TUTOR_API = 'https://aydin-academy-test.aydin-k-1403.workers.dev';
+
+(async () => {
+  try {
+    const response = await fetch(`${TUTOR_API}/api/health`, {
+      cache: 'no-store'
+    });
+
+    if (!response.ok) throw new Error('health');
+
+    const data = await response.json();
+
+    $('aiStatusText').textContent = data.aiReady
+      ? 'آموزگار هوشمند آمادهٔ پاسخ‌گویی است'
+      : 'کلید هوش مصنوعی تنظیم نشده است';
+
+    if (data.aiReady) {
+      $('tutorOffline').hidden = true;
+      $('question').disabled = false;
+      $('sendQuestion').disabled = false;
+      $('sendQuestion').textContent = 'فرستادن ↑';
+    }
+  } catch {
+    $('aiStatusText').textContent = 'ارتباط با آموزگار ابری برقرار نشد';
+    $('tutorOffline').hidden = false;
+    $('question').disabled = true;
+    $('sendQuestion').disabled = true;
+    $('sendQuestion').textContent = 'ارتباط برقرار نیست';
+  }
 })();
-updateStats();loadVocabulary();loadQuestionBank();
-</script>
-<script type="module">
-const loginBtn=document.getElementById('googleSignInBtn'),logoutBtn=document.getElementById('googleSignOutBtn'),status=document.getElementById('authStatus');
-/* پیکربندی Firebase از تنظیمات پروژهٔ خودت است؛ کلیدهای محرمانهٔ سرور را اینجا قرار نده. */
+
 const firebaseConfig={
  apiKey:'AIzaSyC-7Sjlq4tu9uNjRm1oCZwPqvtYh3bmG8Y',
  authDomain:'aydin-academy.firebaseapp.com',
