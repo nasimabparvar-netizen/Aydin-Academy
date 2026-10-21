@@ -1,0 +1,4969 @@
+{
+  "title": "Aydin Academy — Question Bank",
+  "version": 1,
+  "language": "en-fa",
+  "count": 300,
+  "notes_fa": "پرسش‌های تمرینی تازه بر پایهٔ موضوع‌ها و ساختارهای دیده‌شده در Student Book و Grammar Friends 4. پرسش‌ها را پیش از انتشار عمومی در خود سایت نیز آزمایش کنید.",
+  "questions": [
+    {
+      "id": "q-001",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “server”?",
+      "options": [
+        "بازیکن",
+        "بطری",
+        "پیشخدمت",
+        "پنیر"
+      ],
+      "answer": "پیشخدمت",
+      "explanation_fa": "“server” یعنی «پیشخدمت».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-002",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “uniform”?",
+      "options": [
+        "مربا",
+        "نان تخت / نان نازک",
+        "دامپزشک",
+        "لباس فرم"
+      ],
+      "answer": "لباس فرم",
+      "explanation_fa": "“uniform” یعنی «لباس فرم».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-003",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “menu”?",
+      "options": [
+        "شام",
+        "بطری",
+        "فهرست غذا",
+        "یک بطری آب"
+      ],
+      "answer": "فهرست غذا",
+      "explanation_fa": "“menu” یعنی «فهرست غذا».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-004",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “customer”?",
+      "options": [
+        "ساز / ابزار",
+        "کاپشن",
+        "مشتری",
+        "به شنا رفتن"
+      ],
+      "answer": "مشتری",
+      "explanation_fa": "“customer” یعنی «مشتری».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-005",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “bottle”?",
+      "options": [
+        "دیروز",
+        "مال ما",
+        "آب‌میوه",
+        "بطری"
+      ],
+      "answer": "بطری",
+      "explanation_fa": "“bottle” یعنی «بطری».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-006",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “bottle of water”?",
+      "options": [
+        "دیروز",
+        "یک بطری آب",
+        "گشت‌وگذار و دیدن جاهای دیدنی",
+        "اسکی کردن"
+      ],
+      "answer": "یک بطری آب",
+      "explanation_fa": "“bottle of water” یعنی «یک بطری آب».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-007",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “cup of coffee”?",
+      "options": [
+        "یک فنجان قهوه",
+        "نان",
+        "شام",
+        "غرش کردن"
+      ],
+      "answer": "یک فنجان قهوه",
+      "explanation_fa": "“cup of coffee” یعنی «یک فنجان قهوه».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-008",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “glass of milk”?",
+      "options": [
+        "آب‌میوه",
+        "یک لیوان شیر",
+        "یک بطری آب",
+        "زیرپوش / جلیقه"
+      ],
+      "answer": "یک لیوان شیر",
+      "explanation_fa": "“glass of milk” یعنی «یک لیوان شیر».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-009",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “bowl of soup”?",
+      "options": [
+        "یک کاسه سوپ",
+        "غرش کردن",
+        "میمون",
+        "ناهار"
+      ],
+      "answer": "یک کاسه سوپ",
+      "explanation_fa": "“bowl of soup” یعنی «یک کاسه سوپ».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-010",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “plate of salad”?",
+      "options": [
+        "مال تو / شما",
+        "گیتار",
+        "ژیمناستیک کار کردن",
+        "یک بشقاب سالاد"
+      ],
+      "answer": "یک بشقاب سالاد",
+      "explanation_fa": "“plate of salad” یعنی «یک بشقاب سالاد».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-011",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “breakfast”?",
+      "options": [
+        "پنج روز پیش",
+        "ناهار",
+        "صبحانه",
+        "سریع"
+      ],
+      "answer": "صبحانه",
+      "explanation_fa": "“breakfast” یعنی «صبحانه».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-012",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “lunch”?",
+      "options": [
+        "بازیکن",
+        "دیروز",
+        "ناهار",
+        "پاها"
+      ],
+      "answer": "ناهار",
+      "explanation_fa": "“lunch” یعنی «ناهار».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-013",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “dinner”?",
+      "options": [
+        "استخوان",
+        "شام",
+        "فوتبال",
+        "ارکستر"
+      ],
+      "answer": "شام",
+      "explanation_fa": "“dinner” یعنی «شام».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-014",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “bread”?",
+      "options": [
+        "بازیکن",
+        "آلبوم عکس",
+        "نان",
+        "بطری آب"
+      ],
+      "answer": "نان",
+      "explanation_fa": "“bread” یعنی «نان».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-015",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “jam”?",
+      "options": [
+        "مربا",
+        "بازیکن",
+        "هفتهٔ گذشته",
+        "غرش کردن"
+      ],
+      "answer": "مربا",
+      "explanation_fa": "“jam” یعنی «مربا».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-016",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “cheese”?",
+      "options": [
+        "بستنی",
+        "سریع",
+        "ساندویچ",
+        "پنیر"
+      ],
+      "answer": "پنیر",
+      "explanation_fa": "“cheese” یعنی «پنیر».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-017",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “beans”?",
+      "options": [
+        "آب‌میوه",
+        "ماکت / مدل",
+        "لوبیا",
+        "اینوئیت‌ها"
+      ],
+      "answer": "لوبیا",
+      "explanation_fa": "“beans” یعنی «لوبیا».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-018",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “olive oil”?",
+      "options": [
+        "روغن زیتون",
+        "اینوئیت‌ها",
+        "به شنا رفتن",
+        "مال من"
+      ],
+      "answer": "روغن زیتون",
+      "explanation_fa": "“olive oil” یعنی «روغن زیتون».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-019",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “flat bread”?",
+      "options": [
+        "بسکتبال",
+        "نان تخت / نان نازک",
+        "پاها",
+        "جیغ زدن"
+      ],
+      "answer": "نان تخت / نان نازک",
+      "explanation_fa": "“flat bread” یعنی «نان تخت / نان نازک».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-020",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “vacation”?",
+      "options": [
+        "تعطیلات",
+        "تماشاگران",
+        "کاپشن",
+        "خیس"
+      ],
+      "answer": "تعطیلات",
+      "explanation_fa": "“vacation” یعنی «تعطیلات».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-021",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “sightseeing”?",
+      "options": [
+        "ماکت / مدل",
+        "موزه",
+        "گشت‌وگذار و دیدن جاهای دیدنی",
+        "مال او (مونث)"
+      ],
+      "answer": "گشت‌وگذار و دیدن جاهای دیدنی",
+      "explanation_fa": "“sightseeing” یعنی «گشت‌وگذار و دیدن جاهای دیدنی».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-022",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “shopping”?",
+      "options": [
+        "ناهار",
+        "بیمار",
+        "یک فنجان قهوه",
+        "خرید"
+      ],
+      "answer": "خرید",
+      "explanation_fa": "“shopping” یعنی «خرید».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-023",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “photo album”?",
+      "options": [
+        "فلامینگو",
+        "ژیمناستیک",
+        "سالاد",
+        "آلبوم عکس"
+      ],
+      "answer": "آلبوم عکس",
+      "explanation_fa": "“photo album” یعنی «آلبوم عکس».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-024",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “concert”?",
+      "options": [
+        "مال آن‌ها",
+        "کنسرت",
+        "مزرعه",
+        "الفبا"
+      ],
+      "answer": "کنسرت",
+      "explanation_fa": "“concert” یعنی «کنسرت».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-025",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “violin”?",
+      "options": [
+        "ویولن",
+        "ژیمناستیک",
+        "مربا",
+        "گرم"
+      ],
+      "answer": "ویولن",
+      "explanation_fa": "“violin” یعنی «ویولن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-026",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “guitar”?",
+      "options": [
+        "پنج روز پیش",
+        "گیتار",
+        "تلفن",
+        "مربا"
+      ],
+      "answer": "گیتار",
+      "explanation_fa": "“guitar” یعنی «گیتار».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-027",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “instrument”?",
+      "options": [
+        "دندان‌ها",
+        "ساز / ابزار",
+        "تقویم",
+        "گرم"
+      ],
+      "answer": "ساز / ابزار",
+      "explanation_fa": "“instrument” یعنی «ساز / ابزار».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-028",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “orchestra”?",
+      "options": [
+        "منطقهٔ قطب شمال",
+        "بستنی",
+        "ارکستر",
+        "کوله‌پشتی"
+      ],
+      "answer": "ارکستر",
+      "explanation_fa": "“orchestra” یعنی «ارکستر».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-029",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “festival”?",
+      "options": [
+        "مار",
+        "آهسته",
+        "گشت‌وگذار و دیدن جاهای دیدنی",
+        "جشنواره"
+      ],
+      "answer": "جشنواره",
+      "explanation_fa": "“festival” یعنی «جشنواره».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-030",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “piano”?",
+      "options": [
+        "مربا",
+        "پیانو",
+        "دم",
+        "فهرست غذا"
+      ],
+      "answer": "پیانو",
+      "explanation_fa": "“piano” یعنی «پیانو».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-031",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “trumpet”?",
+      "options": [
+        "صحنه",
+        "یک لیوان شیر",
+        "مال من",
+        "ترومپت"
+      ],
+      "answer": "ترومپت",
+      "explanation_fa": "“trumpet” یعنی «ترومپت».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-032",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “stage”?",
+      "options": [
+        "یک کاسه سوپ",
+        "آهسته",
+        "صحنه",
+        "صورتحساب"
+      ],
+      "answer": "صحنه",
+      "explanation_fa": "“stage” یعنی «صحنه».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-033",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “audience”?",
+      "options": [
+        "میمون",
+        "خرید",
+        "تماشاگران",
+        "تقویم"
+      ],
+      "answer": "تماشاگران",
+      "explanation_fa": "“audience” یعنی «تماشاگران».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-034",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “cheer”?",
+      "options": [
+        "تشویق کردن",
+        "ماکت / مدل",
+        "به شنا رفتن",
+        "قاره"
+      ],
+      "answer": "تشویق کردن",
+      "explanation_fa": "“cheer” یعنی «تشویق کردن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-035",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “calendar”?",
+      "options": [
+        "صحنه",
+        "جشنواره",
+        "پنیر",
+        "تقویم"
+      ],
+      "answer": "تقویم",
+      "explanation_fa": "“calendar” یعنی «تقویم».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-036",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “last week”?",
+      "options": [
+        "پیانو",
+        "میمون",
+        "هفتهٔ گذشته",
+        "مال ما"
+      ],
+      "answer": "هفتهٔ گذشته",
+      "explanation_fa": "“last week” یعنی «هفتهٔ گذشته».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-037",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “yesterday”?",
+      "options": [
+        "یک لیوان شیر",
+        "کوله‌پشتی",
+        "دیروز",
+        "ژیمناستیک کار کردن"
+      ],
+      "answer": "دیروز",
+      "explanation_fa": "“yesterday” یعنی «دیروز».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-038",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “four weeks ago”?",
+      "options": [
+        "چهار هفته پیش",
+        "یک بشقاب سالاد",
+        "گوشت",
+        "اسنوموبیل / وسیلهٔ برفی موتوری"
+      ],
+      "answer": "چهار هفته پیش",
+      "explanation_fa": "“four weeks ago” یعنی «چهار هفته پیش».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-039",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “five days ago”?",
+      "options": [
+        "مار",
+        "ارکستر",
+        "پنج روز پیش",
+        "لوبیا"
+      ],
+      "answer": "پنج روز پیش",
+      "explanation_fa": "“five days ago” یعنی «پنج روز پیش».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-040",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “Arctic”?",
+      "options": [
+        "زنده",
+        "آب‌میوه",
+        "ویولن",
+        "منطقهٔ قطب شمال"
+      ],
+      "answer": "منطقهٔ قطب شمال",
+      "explanation_fa": "“Arctic” یعنی «منطقهٔ قطب شمال».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-041",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “continent”?",
+      "options": [
+        "استخوان",
+        "قاره",
+        "فلامینگو",
+        "زنده"
+      ],
+      "answer": "قاره",
+      "explanation_fa": "“continent” یعنی «قاره».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-042",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “Inuit”?",
+      "options": [
+        "زمین بسکتبال",
+        "والیبال",
+        "بسکتبال",
+        "اینوئیت‌ها"
+      ],
+      "answer": "اینوئیت‌ها",
+      "explanation_fa": "“Inuit” یعنی «اینوئیت‌ها».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-043",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “temperature”?",
+      "options": [
+        "زیرپوش / جلیقه",
+        "اسکی کردن",
+        "گوجه‌فرنگی",
+        "دما"
+      ],
+      "answer": "دما",
+      "explanation_fa": "“temperature” یعنی «دما».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-044",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “snowmobile”?",
+      "options": [
+        "ساحل",
+        "اسنوموبیل / وسیلهٔ برفی موتوری",
+        "برادرزاده یا خواهرزادهٔ پسر",
+        "ویولن"
+      ],
+      "answer": "اسنوموبیل / وسیلهٔ برفی موتوری",
+      "explanation_fa": "“snowmobile” یعنی «اسنوموبیل / وسیلهٔ برفی موتوری».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-045",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “ski”?",
+      "options": [
+        "الفبا",
+        "صحنه",
+        "هفتهٔ گذشته",
+        "اسکی کردن"
+      ],
+      "answer": "اسکی کردن",
+      "explanation_fa": "“ski” یعنی «اسکی کردن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-046",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “dinosaur”?",
+      "options": [
+        "یک فنجان قهوه",
+        "زمین بسکتبال",
+        "مار",
+        "دایناسور"
+      ],
+      "answer": "دایناسور",
+      "explanation_fa": "“dinosaur” یعنی «دایناسور».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-047",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “bone”?",
+      "options": [
+        "زنده",
+        "خرید",
+        "استخوان",
+        "دم"
+      ],
+      "answer": "استخوان",
+      "explanation_fa": "“bone” یعنی «استخوان».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-048",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “museum”?",
+      "options": [
+        "غرش کردن",
+        "خرید",
+        "یک لیوان شیر",
+        "موزه"
+      ],
+      "answer": "موزه",
+      "explanation_fa": "“museum” یعنی «موزه».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-049",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “science museum”?",
+      "options": [
+        "موزهٔ علوم",
+        "سیب‌زمینی سرخ‌کرده",
+        "پاها",
+        "دیروز"
+      ],
+      "answer": "موزهٔ علوم",
+      "explanation_fa": "“science museum” یعنی «موزهٔ علوم».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-050",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “roar”?",
+      "options": [
+        "چهار هفته پیش",
+        "ویولن",
+        "غرش کردن",
+        "تعطیلات"
+      ],
+      "answer": "غرش کردن",
+      "explanation_fa": "“roar” یعنی «غرش کردن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-051",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “loudly”?",
+      "options": [
+        "یک لیوان شیر",
+        "خیس",
+        "قاره",
+        "با صدای بلند"
+      ],
+      "answer": "با صدای بلند",
+      "explanation_fa": "“loudly” یعنی «با صدای بلند».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-052",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “scream”?",
+      "options": [
+        "دندان‌ها",
+        "گشت‌وگذار و دیدن جاهای دیدنی",
+        "مزرعه",
+        "جیغ زدن"
+      ],
+      "answer": "جیغ زدن",
+      "explanation_fa": "“scream” یعنی «جیغ زدن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-053",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “model”?",
+      "options": [
+        "کنسرت",
+        "مال آن‌ها",
+        "یک کاسه سوپ",
+        "ماکت / مدل"
+      ],
+      "answer": "ماکت / مدل",
+      "explanation_fa": "“model” یعنی «ماکت / مدل».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-054",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “alive”?",
+      "options": [
+        "مال من",
+        "زنده",
+        "پنیر",
+        "جیغ زدن"
+      ],
+      "answer": "زنده",
+      "explanation_fa": "“alive” یعنی «زنده».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-055",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “irregular verb”?",
+      "options": [
+        "زنده",
+        "فعل بی‌قاعده",
+        "جام قهرمانی",
+        "صبحانه"
+      ],
+      "answer": "فعل بی‌قاعده",
+      "explanation_fa": "“irregular verb” یعنی «فعل بی‌قاعده».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-056",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “flamingo”?",
+      "options": [
+        "فلامینگو",
+        "به شنا رفتن",
+        "قاره",
+        "فوتبال"
+      ],
+      "answer": "فلامینگو",
+      "explanation_fa": "“flamingo” یعنی «فلامینگو».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-057",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “phone”?",
+      "options": [
+        "تلفن",
+        "بسکتبال",
+        "لوبیا",
+        "فوتبال"
+      ],
+      "answer": "تلفن",
+      "explanation_fa": "“phone” یعنی «تلفن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-058",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “scarf”?",
+      "options": [
+        "بیمار",
+        "شال‌گردن",
+        "یک بشقاب سالاد",
+        "لباس فرم"
+      ],
+      "answer": "شال‌گردن",
+      "explanation_fa": "“scarf” یعنی «شال‌گردن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-059",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “nephew”?",
+      "options": [
+        "ارکستر",
+        "یک بشقاب سالاد",
+        "برادرزاده یا خواهرزادهٔ پسر",
+        "ساحل"
+      ],
+      "answer": "برادرزاده یا خواهرزادهٔ پسر",
+      "explanation_fa": "“nephew” یعنی «برادرزاده یا خواهرزادهٔ پسر».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-060",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “feet”?",
+      "options": [
+        "موزه",
+        "یک کاسه سوپ",
+        "پاها",
+        "صحنه"
+      ],
+      "answer": "پاها",
+      "explanation_fa": "“feet” یعنی «پاها».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-061",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “alphabet”?",
+      "options": [
+        "نخودفرنگی",
+        "الفبا",
+        "ژیمناستیک کار کردن",
+        "مار"
+      ],
+      "answer": "الفبا",
+      "explanation_fa": "“alphabet” یعنی «الفبا».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-062",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “vowel”?",
+      "options": [
+        "فوتبال",
+        "حرف صدادار",
+        "میمون",
+        "صورتحساب"
+      ],
+      "answer": "حرف صدادار",
+      "explanation_fa": "“vowel” یعنی «حرف صدادار».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-063",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “T-Rex”?",
+      "options": [
+        "روغن زیتون",
+        "مربا",
+        "تشویق کردن",
+        "تیرانوسوروس رکس"
+      ],
+      "answer": "تیرانوسوروس رکس",
+      "explanation_fa": "“T-Rex” یعنی «تیرانوسوروس رکس».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-064",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “tail”?",
+      "options": [
+        "دم",
+        "بطری آب",
+        "دیروز",
+        "تقویم"
+      ],
+      "answer": "دم",
+      "explanation_fa": "“tail” یعنی «دم».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-065",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “tooth”?",
+      "options": [
+        "دندان",
+        "ساز / ابزار",
+        "بازیکن",
+        "ژیمناستیک"
+      ],
+      "answer": "دندان",
+      "explanation_fa": "“tooth” یعنی «دندان».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-066",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “teeth”?",
+      "options": [
+        "یک فنجان قهوه",
+        "دندان‌ها",
+        "تماشاگران",
+        "ناهار"
+      ],
+      "answer": "دندان‌ها",
+      "explanation_fa": "“teeth” یعنی «دندان‌ها».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-067",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “meat”?",
+      "options": [
+        "گوشت",
+        "سریع",
+        "دما",
+        "پیشخدمت"
+      ],
+      "answer": "گوشت",
+      "explanation_fa": "“meat” یعنی «گوشت».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-068",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “skeleton”?",
+      "options": [
+        "گشت‌وگذار و دیدن جاهای دیدنی",
+        "اسکلت",
+        "دامپزشک",
+        "تلفن"
+      ],
+      "answer": "اسکلت",
+      "explanation_fa": "“skeleton” یعنی «اسکلت».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-069",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “farm”?",
+      "options": [
+        "شنا",
+        "مزرعه",
+        "یک بشقاب سالاد",
+        "مربا"
+      ],
+      "answer": "مزرعه",
+      "explanation_fa": "“farm” یعنی «مزرعه».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-070",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “beach”?",
+      "options": [
+        "موزه",
+        "ساحل",
+        "مال او (مونث)",
+        "نخودفرنگی"
+      ],
+      "answer": "ساحل",
+      "explanation_fa": "“beach” یعنی «ساحل».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-071",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “snake”?",
+      "options": [
+        "منطقهٔ قطب شمال",
+        "استخوان",
+        "یک بطری آب",
+        "مار"
+      ],
+      "answer": "مار",
+      "explanation_fa": "“snake” یعنی «مار».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-072",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “monkey”?",
+      "options": [
+        "فوتبال",
+        "صحنه",
+        "ژیمناستیک",
+        "میمون"
+      ],
+      "answer": "میمون",
+      "explanation_fa": "“monkey” یعنی «میمون».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-073",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “jacket”?",
+      "options": [
+        "تعطیلات",
+        "خیس",
+        "کاپشن",
+        "جام قهرمانی"
+      ],
+      "answer": "کاپشن",
+      "explanation_fa": "“jacket” یعنی «کاپشن».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-074",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “mine”?",
+      "options": [
+        "آلبوم عکس",
+        "مال من",
+        "ماکت / مدل",
+        "مشتری"
+      ],
+      "answer": "مال من",
+      "explanation_fa": "“mine” یعنی «مال من».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-075",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “yours”?",
+      "options": [
+        "گشت‌وگذار و دیدن جاهای دیدنی",
+        "سیب‌زمینی سرخ‌کرده",
+        "تقویم",
+        "مال تو / شما"
+      ],
+      "answer": "مال تو / شما",
+      "explanation_fa": "“yours” یعنی «مال تو / شما».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-076",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “hers”?",
+      "options": [
+        "مال او (مونث)",
+        "جشنواره",
+        "الفبا",
+        "گیتار"
+      ],
+      "answer": "مال او (مونث)",
+      "explanation_fa": "“hers” یعنی «مال او (مونث)».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-077",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “ours”?",
+      "options": [
+        "پیانو",
+        "سالاد",
+        "مال ما",
+        "دسر"
+      ],
+      "answer": "مال ما",
+      "explanation_fa": "“ours” یعنی «مال ما».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-078",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “theirs”?",
+      "options": [
+        "هفتهٔ گذشته",
+        "دما",
+        "جیغ زدن",
+        "مال آن‌ها"
+      ],
+      "answer": "مال آن‌ها",
+      "explanation_fa": "“theirs” یعنی «مال آن‌ها».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-079",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “water bottle”?",
+      "options": [
+        "بسکتبال",
+        "جیغ زدن",
+        "بطری آب",
+        "دندان‌ها"
+      ],
+      "answer": "بطری آب",
+      "explanation_fa": "“water bottle” یعنی «بطری آب».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-080",
+      "type": "multiple_choice",
+      "prompt": "What is the Persian meaning of “sneakers”?",
+      "options": [
+        "تشویق کردن",
+        "مال تو / شما",
+        "کفش ورزشی",
+        "آلبوم عکس"
+      ],
+      "answer": "کفش ورزشی",
+      "explanation_fa": "“sneakers” یعنی «کفش ورزشی».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "واژگان",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-081",
+      "type": "multiple_choice",
+      "prompt": "They usually ___ blue uniforms, but today they ___ green ones.",
+      "options": [
+        "wear / are wearing",
+        "are wearing / wear",
+        "wears / is wearing",
+        "wore / wears"
+      ],
+      "answer": "wear / are wearing",
+      "explanation_fa": "برای عادت از حال ساده و برای کاری که امروز در جریان است از حال استمراری استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-082",
+      "type": "multiple_choice",
+      "prompt": "Look! The servers ___ lunch now.",
+      "options": [
+        "serve",
+        "are serving",
+        "serves",
+        "served"
+      ],
+      "answer": "are serving",
+      "explanation_fa": "کلمهٔ Look! و now نشان می‌دهند کار همین حالا در جریان است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-083",
+      "type": "multiple_choice",
+      "prompt": "We usually ___ soup for lunch.",
+      "options": [
+        "have",
+        "are having",
+        "has",
+        "had"
+      ],
+      "answer": "have",
+      "explanation_fa": "usually نشانهٔ عادت است؛ از حال ساده استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-084",
+      "type": "multiple_choice",
+      "prompt": "Holly ___ breakfast at home every day.",
+      "options": [
+        "eats",
+        "is eating",
+        "eat",
+        "ate"
+      ],
+      "answer": "eats",
+      "explanation_fa": "برای he/she/it در حال ساده معمولاً به فعل s اضافه می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-085",
+      "type": "multiple_choice",
+      "prompt": "I ___ my homework right now.",
+      "options": [
+        "do",
+        "does",
+        "am doing",
+        "did"
+      ],
+      "answer": "am doing",
+      "explanation_fa": "right now نشانهٔ حال استمراری است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-086",
+      "type": "multiple_choice",
+      "prompt": "My parents usually ___ coffee in the morning.",
+      "options": [
+        "drink",
+        "are drinking",
+        "drinks",
+        "drank"
+      ],
+      "answer": "drink",
+      "explanation_fa": "فاعل جمع با شکل پایهٔ فعل در حال ساده می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-087",
+      "type": "multiple_choice",
+      "prompt": "Max ___ a sandwich at the moment.",
+      "options": [
+        "has",
+        "have",
+        "is having",
+        "had"
+      ],
+      "answer": "is having",
+      "explanation_fa": "at the moment نشانهٔ حال استمراری است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-088",
+      "type": "multiple_choice",
+      "prompt": "She often ___ to the restaurant with her family.",
+      "options": [
+        "go",
+        "goes",
+        "is going",
+        "went"
+      ],
+      "answer": "goes",
+      "explanation_fa": "برای she در حال ساده از goes استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-089",
+      "type": "multiple_choice",
+      "prompt": "Listen! The children ___ loudly.",
+      "options": [
+        "sing",
+        "sings",
+        "are singing",
+        "sang"
+      ],
+      "answer": "are singing",
+      "explanation_fa": "Listen! نشان می‌دهد کار در حال رخ‌دادن است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-090",
+      "type": "multiple_choice",
+      "prompt": "We ___ dinner now, so please wait.",
+      "options": [
+        "have",
+        "has",
+        "are having",
+        "had"
+      ],
+      "answer": "are having",
+      "explanation_fa": "now برای حال استمراری به کار می‌رود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-091",
+      "type": "multiple_choice",
+      "prompt": "My brother never ___ milk with breakfast.",
+      "options": [
+        "drink",
+        "drinks",
+        "is drinking",
+        "drank"
+      ],
+      "answer": "drinks",
+      "explanation_fa": "never برای عادت تکراری می‌آید؛ فاعل مفرد سوم‌شخص است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-092",
+      "type": "multiple_choice",
+      "prompt": "The customer ___ the menu right now.",
+      "options": [
+        "reads",
+        "read",
+        "is reading",
+        "are reading"
+      ],
+      "answer": "is reading",
+      "explanation_fa": "right now به کار در حال انجام اشاره دارد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-093",
+      "type": "multiple_choice",
+      "prompt": "I usually ___ bread and cheese for breakfast.",
+      "options": [
+        "eat",
+        "eats",
+        "am eating",
+        "ate"
+      ],
+      "answer": "eat",
+      "explanation_fa": "فاعل I با شکل پایهٔ فعل می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-094",
+      "type": "multiple_choice",
+      "prompt": "Why ___ they wearing green uniforms today?",
+      "options": [
+        "do",
+        "are",
+        "does",
+        "did"
+      ],
+      "answer": "are",
+      "explanation_fa": "پرسش حال استمراری با am/is/are ساخته می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-095",
+      "type": "multiple_choice",
+      "prompt": "___ you usually eat breakfast at seven?",
+      "options": [
+        "Are",
+        "Do",
+        "Does",
+        "Did"
+      ],
+      "answer": "Do",
+      "explanation_fa": "پرسش حال ساده با Do برای you ساخته می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-096",
+      "type": "multiple_choice",
+      "prompt": "He ___ not working today; he is on vacation.",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "did"
+      ],
+      "answer": "is",
+      "explanation_fa": "منفی حال استمراری با is not ساخته می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-097",
+      "type": "multiple_choice",
+      "prompt": "The servers ___ usually wear green uniforms.",
+      "options": [
+        "don't",
+        "aren't",
+        "doesn't",
+        "isn't"
+      ],
+      "answer": "don't",
+      "explanation_fa": "برای عادت منفی از don't با فاعل جمع استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-098",
+      "type": "multiple_choice",
+      "prompt": "What ___ you doing now?",
+      "options": [
+        "do",
+        "are",
+        "does",
+        "did"
+      ],
+      "answer": "are",
+      "explanation_fa": "پرسش حال استمراری: What are you doing?",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-099",
+      "type": "multiple_choice",
+      "prompt": "She ___ lunch at school every day.",
+      "options": [
+        "have",
+        "has",
+        "is having",
+        "having"
+      ],
+      "answer": "has",
+      "explanation_fa": "برای she از has استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-100",
+      "type": "multiple_choice",
+      "prompt": "They ___ in a restaurant this week.",
+      "options": [
+        "work",
+        "works",
+        "are working",
+        "worked"
+      ],
+      "answer": "are working",
+      "explanation_fa": "this week در این جمله به وضعیت موقتی اشاره می‌کند.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Simple present vs present progressive",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-101",
+      "type": "multiple_choice",
+      "prompt": "Yesterday, we ___ to the science museum.",
+      "options": [
+        "go",
+        "went",
+        "goed",
+        "going"
+      ],
+      "answer": "went",
+      "explanation_fa": "گذشتهٔ بی‌قاعدهٔ go برابر went است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-102",
+      "type": "multiple_choice",
+      "prompt": "I ___ a dinosaur model at the museum.",
+      "options": [
+        "see",
+        "saw",
+        "seed",
+        "seen"
+      ],
+      "answer": "saw",
+      "explanation_fa": "گذشتهٔ see برابر saw است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-103",
+      "type": "multiple_choice",
+      "prompt": "They ___ lunch after the concert.",
+      "options": [
+        "eat",
+        "ate",
+        "eated",
+        "eaten"
+      ],
+      "answer": "ate",
+      "explanation_fa": "گذشتهٔ eat برابر ate است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-104",
+      "type": "multiple_choice",
+      "prompt": "Amy ___ the violin at the concert.",
+      "options": [
+        "play",
+        "plays",
+        "played",
+        "playing"
+      ],
+      "answer": "played",
+      "explanation_fa": "گذشتهٔ باقاعدهٔ play با افزودن ed ساخته می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-105",
+      "type": "multiple_choice",
+      "prompt": "We ___ a great time yesterday.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "having"
+      ],
+      "answer": "had",
+      "explanation_fa": "گذشتهٔ have برابر had است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-106",
+      "type": "multiple_choice",
+      "prompt": "Max ___ the story was real.",
+      "options": [
+        "think",
+        "thought",
+        "thinked",
+        "thinks"
+      ],
+      "answer": "thought",
+      "explanation_fa": "گذشتهٔ think برابر thought است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-107",
+      "type": "multiple_choice",
+      "prompt": "The children ___ the loud roar.",
+      "options": [
+        "hear",
+        "heard",
+        "heared",
+        "hears"
+      ],
+      "answer": "heard",
+      "explanation_fa": "گذشتهٔ hear برابر heard است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-108",
+      "type": "multiple_choice",
+      "prompt": "She ___ her blue jacket last week.",
+      "options": [
+        "wear",
+        "wore",
+        "weared",
+        "wears"
+      ],
+      "answer": "wore",
+      "explanation_fa": "گذشتهٔ wear برابر wore است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-109",
+      "type": "multiple_choice",
+      "prompt": "They ___ about dinosaurs in class.",
+      "options": [
+        "learn",
+        "learned",
+        "learning",
+        "learns"
+      ],
+      "answer": "learned",
+      "explanation_fa": "گذشتهٔ learned در کتاب به‌کار رفته است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-110",
+      "type": "multiple_choice",
+      "prompt": "I ___ a postcard yesterday.",
+      "options": [
+        "write",
+        "wrote",
+        "writed",
+        "written"
+      ],
+      "answer": "wrote",
+      "explanation_fa": "گذشتهٔ write برابر wrote است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-111",
+      "type": "multiple_choice",
+      "prompt": "___ you go to the museum yesterday?",
+      "options": [
+        "Do",
+        "Did",
+        "Were",
+        "Are"
+      ],
+      "answer": "Did",
+      "explanation_fa": "برای پرسش گذشتهٔ ساده از Did و شکل پایهٔ فعل استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-112",
+      "type": "multiple_choice",
+      "prompt": "Did she ___ anything at the shop?",
+      "options": [
+        "bought",
+        "buy",
+        "buys",
+        "buying"
+      ],
+      "answer": "buy",
+      "explanation_fa": "پس از Did، فعل به شکل پایه می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-113",
+      "type": "multiple_choice",
+      "prompt": "We didn't ___ the dinosaur alive.",
+      "options": [
+        "thought",
+        "think",
+        "thinks",
+        "thinking"
+      ],
+      "answer": "think",
+      "explanation_fa": "پس از didn't از شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-114",
+      "type": "multiple_choice",
+      "prompt": "Where ___ you go last week?",
+      "options": [
+        "do",
+        "did",
+        "are",
+        "were"
+      ],
+      "answer": "did",
+      "explanation_fa": "برای پرسش دربارهٔ عمل گذشته از did استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-115",
+      "type": "multiple_choice",
+      "prompt": "He ___ a concert four weeks ago.",
+      "options": [
+        "has",
+        "have",
+        "had",
+        "having"
+      ],
+      "answer": "had",
+      "explanation_fa": "four weeks ago به گذشته اشاره دارد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-116",
+      "type": "multiple_choice",
+      "prompt": "They ___ to Mexico with their parents.",
+      "options": [
+        "go",
+        "went",
+        "goes",
+        "going"
+      ],
+      "answer": "went",
+      "explanation_fa": "گذشتهٔ go برابر went است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-117",
+      "type": "multiple_choice",
+      "prompt": "I ___ a strange sound and screamed.",
+      "options": [
+        "hear",
+        "heard",
+        "hears",
+        "hearing"
+      ],
+      "answer": "heard",
+      "explanation_fa": "گذشتهٔ hear برابر heard است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-118",
+      "type": "multiple_choice",
+      "prompt": "The children ___ their photos in an album.",
+      "options": [
+        "put",
+        "puts",
+        "putted",
+        "putting"
+      ],
+      "answer": "put",
+      "explanation_fa": "put در گذشته نیز put است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-119",
+      "type": "multiple_choice",
+      "prompt": "She ___ a song at the festival.",
+      "options": [
+        "sing",
+        "sang",
+        "sung",
+        "singed"
+      ],
+      "answer": "sang",
+      "explanation_fa": "گذشتهٔ sing برابر sang است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-120",
+      "type": "multiple_choice",
+      "prompt": "We ___ home after the show.",
+      "options": [
+        "come",
+        "came",
+        "comes",
+        "coming"
+      ],
+      "answer": "came",
+      "explanation_fa": "گذشتهٔ come برابر came است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-121",
+      "type": "multiple_choice",
+      "prompt": "He ___ a picture of the dinosaur.",
+      "options": [
+        "draw",
+        "drew",
+        "drawed",
+        "draws"
+      ],
+      "answer": "drew",
+      "explanation_fa": "گذشتهٔ draw برابر drew است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-122",
+      "type": "multiple_choice",
+      "prompt": "I ___ my friend at the park.",
+      "options": [
+        "meet",
+        "met",
+        "meeted",
+        "meeting"
+      ],
+      "answer": "met",
+      "explanation_fa": "گذشتهٔ meet برابر met است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-123",
+      "type": "multiple_choice",
+      "prompt": "They ___ the bus to school yesterday.",
+      "options": [
+        "take",
+        "took",
+        "taked",
+        "taken"
+      ],
+      "answer": "took",
+      "explanation_fa": "گذشتهٔ take برابر took است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-124",
+      "type": "multiple_choice",
+      "prompt": "My sister ___ a new notebook last week.",
+      "options": [
+        "get",
+        "got",
+        "getted",
+        "gets"
+      ],
+      "answer": "got",
+      "explanation_fa": "گذشتهٔ get برابر got است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-125",
+      "type": "multiple_choice",
+      "prompt": "The audience ___ loudly after the concert.",
+      "options": [
+        "cheer",
+        "cheered",
+        "cheering",
+        "cheers"
+      ],
+      "answer": "cheered",
+      "explanation_fa": "گذشتهٔ باقاعدهٔ cheer با افزودن ed ساخته می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-126",
+      "type": "multiple_choice",
+      "prompt": "This water bottle belongs to me. It is ___.",
+      "options": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "mine",
+      "explanation_fa": "پس از فعل be می‌توان از ضمیر ملکی mine استفاده کرد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-127",
+      "type": "multiple_choice",
+      "prompt": "Those red sneakers belong to her. They are ___.",
+      "options": [
+        "her",
+        "hers",
+        "she",
+        "their"
+      ],
+      "answer": "hers",
+      "explanation_fa": "hers یعنی «مال او» و به‌تنهایی به کار می‌رود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-128",
+      "type": "multiple_choice",
+      "prompt": "This is our trophy. The trophy is ___.",
+      "options": [
+        "our",
+        "ours",
+        "we",
+        "us"
+      ],
+      "answer": "ours",
+      "explanation_fa": "ours یعنی «مال ما».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-129",
+      "type": "multiple_choice",
+      "prompt": "That backpack belongs to them. It is ___.",
+      "options": [
+        "their",
+        "theirs",
+        "them",
+        "they"
+      ],
+      "answer": "theirs",
+      "explanation_fa": "theirs یعنی «مال آن‌ها».",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-130",
+      "type": "multiple_choice",
+      "prompt": "Is this jacket ___, Leo?",
+      "options": [
+        "your",
+        "yours",
+        "you",
+        "you're"
+      ],
+      "answer": "yours",
+      "explanation_fa": "در پایان جمله و بدون اسم، از yours استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-131",
+      "type": "multiple_choice",
+      "prompt": "This is ___ water bottle.",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "answer": "my",
+      "explanation_fa": "پیش از اسم از صفت ملکی my استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-132",
+      "type": "multiple_choice",
+      "prompt": "The blue jacket is hers. It is ___ jacket.",
+      "options": [
+        "her",
+        "hers",
+        "she",
+        "their"
+      ],
+      "answer": "her",
+      "explanation_fa": "پیش از اسم jacket از her استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-133",
+      "type": "multiple_choice",
+      "prompt": "They are ___ trophies.",
+      "options": [
+        "ours",
+        "our",
+        "us",
+        "we"
+      ],
+      "answer": "our",
+      "explanation_fa": "پیش از اسم جمع trophies از our استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-134",
+      "type": "multiple_choice",
+      "prompt": "The backpacks are theirs. They are ___ backpacks.",
+      "options": [
+        "their",
+        "theirs",
+        "them",
+        "they"
+      ],
+      "answer": "their",
+      "explanation_fa": "پیش از اسم backpacks از their استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-135",
+      "type": "multiple_choice",
+      "prompt": "Is this ___ water bottle? (you)",
+      "options": [
+        "your",
+        "yours",
+        "you",
+        "you're"
+      ],
+      "answer": "your",
+      "explanation_fa": "وقتی اسم پس از جای خالی می‌آید، your درست است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-136",
+      "type": "multiple_choice",
+      "prompt": "This ball belongs to me. The ball is ___.",
+      "options": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "mine",
+      "explanation_fa": "mine جایگزین عبارت my ball می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-137",
+      "type": "multiple_choice",
+      "prompt": "The red sneakers belong to him. They are ___.",
+      "options": [
+        "his",
+        "him",
+        "he",
+        "her"
+      ],
+      "answer": "his",
+      "explanation_fa": "his می‌تواند ضمیر ملکی و صفت ملکی باشد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-138",
+      "type": "multiple_choice",
+      "prompt": "This classroom belongs to us. It is ___.",
+      "options": [
+        "our",
+        "ours",
+        "us",
+        "we"
+      ],
+      "answer": "ours",
+      "explanation_fa": "ours بدون اسم بعد از آن می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-139",
+      "type": "multiple_choice",
+      "prompt": "The bag belongs to you and me. It is ___.",
+      "options": [
+        "our",
+        "ours",
+        "mine",
+        "yours"
+      ],
+      "answer": "ours",
+      "explanation_fa": "اگر مال ما باشد، از ours استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-140",
+      "type": "multiple_choice",
+      "prompt": "These books belong to the children. They are ___.",
+      "options": [
+        "their",
+        "theirs",
+        "them",
+        "they"
+      ],
+      "answer": "theirs",
+      "explanation_fa": "theirs ضمیر ملکی جمع است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Possessive adjectives and pronouns",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-141",
+      "type": "multiple_choice",
+      "prompt": "Which phrase is correct?",
+      "options": [
+        "play soccer",
+        "do soccer",
+        "go soccer",
+        "make soccer"
+      ],
+      "answer": "play soccer",
+      "explanation_fa": "با soccer از فعل play استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-142",
+      "type": "multiple_choice",
+      "prompt": "Which phrase is correct? (Practice 142)",
+      "options": [
+        "play gymnastics",
+        "do gymnastics",
+        "go gymnastics",
+        "make gymnastics"
+      ],
+      "answer": "do gymnastics",
+      "explanation_fa": "با gymnastics از فعل do استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-143",
+      "type": "multiple_choice",
+      "prompt": "Which phrase is correct? (Practice 143)",
+      "options": [
+        "play swimming",
+        "do swimming",
+        "go swimming",
+        "make swimming"
+      ],
+      "answer": "go swimming",
+      "explanation_fa": "برای فعالیت‌هایی مانند swimming معمولاً از go استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-144",
+      "type": "multiple_choice",
+      "prompt": "A basketball game is played on a ___.",
+      "options": [
+        "basketball court",
+        "photo album",
+        "menu",
+        "stage"
+      ],
+      "answer": "basketball court",
+      "explanation_fa": "زمین بسکتبال basketball court نام دارد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-145",
+      "type": "multiple_choice",
+      "prompt": "A person who takes part in a game is a ___.",
+      "options": [
+        "player",
+        "customer",
+        "server",
+        "nephew"
+      ],
+      "answer": "player",
+      "explanation_fa": "player یعنی بازیکن.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-146",
+      "type": "multiple_choice",
+      "prompt": "The opposite of slowly is ___.",
+      "options": [
+        "fast",
+        "quiet",
+        "warm",
+        "wet"
+      ],
+      "answer": "fast",
+      "explanation_fa": "fast یعنی سریع و در این درس در برابر slowly آمده است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-147",
+      "type": "multiple_choice",
+      "prompt": "Joe ran fast, but Adam ran ___.",
+      "options": [
+        "slowly",
+        "slow",
+        "slows",
+        "slowerly"
+      ],
+      "answer": "slowly",
+      "explanation_fa": "برای توصیف فعل ran از قید slowly استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-148",
+      "type": "multiple_choice",
+      "prompt": "Which word is an adverb?",
+      "options": [
+        "slowly",
+        "jacket",
+        "player",
+        "concert"
+      ],
+      "answer": "slowly",
+      "explanation_fa": "slowly قید است و چگونگی انجام کار را نشان می‌دهد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-149",
+      "type": "multiple_choice",
+      "prompt": "Basketball was invented in ___.",
+      "options": [
+        "Canada",
+        "Greenland",
+        "Russia",
+        "Egypt"
+      ],
+      "answer": "Canada",
+      "explanation_fa": "متن کتاب دربارهٔ بسکتبال می‌گوید این ورزش در کانادا آغاز شد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-150",
+      "type": "multiple_choice",
+      "prompt": "A group playing together is a ___.",
+      "options": [
+        "team",
+        "menu",
+        "continent",
+        "scarf"
+      ],
+      "answer": "team",
+      "explanation_fa": "team یعنی تیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-151",
+      "type": "multiple_choice",
+      "prompt": "Which sport uses a basketball hoop?",
+      "options": [
+        "basketball",
+        "swimming",
+        "gymnastics",
+        "skiing"
+      ],
+      "answer": "basketball",
+      "explanation_fa": "در بسکتبال از حلقه استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-152",
+      "type": "multiple_choice",
+      "prompt": "Which word names a kind of sport?",
+      "options": [
+        "volleyball",
+        "temperature",
+        "alphabet",
+        "customer"
+      ],
+      "answer": "volleyball",
+      "explanation_fa": "volleyball یعنی والیبال.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-153",
+      "type": "multiple_choice",
+      "prompt": "Which is a correct polite restaurant request?",
+      "options": [
+        "Can I have some juice, please?",
+        "I have juice yesterday.",
+        "Did I juice please?",
+        "I am juice."
+      ],
+      "answer": "Can I have some juice, please?",
+      "explanation_fa": "برای درخواست مودبانه می‌توان از Can I have ... please? استفاده کرد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-154",
+      "type": "multiple_choice",
+      "prompt": "What do you ask for when you want to pay at a restaurant?",
+      "options": [
+        "The check, please.",
+        "The alphabet, please.",
+        "The stage, please.",
+        "The dinosaur, please."
+      ],
+      "answer": "The check, please.",
+      "explanation_fa": "در گفت‌وگوی رستوران برای صورتحساب می‌گوییم The check, please.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-155",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means «بدون گوجه‌فرنگی»?",
+      "options": [
+        "without tomatoes",
+        "with tomatoes",
+        "some tomatoes",
+        "tomatoes are"
+      ],
+      "answer": "without tomatoes",
+      "explanation_fa": "without یعنی بدون.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports, adverbs and everyday English",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-156",
+      "type": "fill_blank",
+      "prompt": "The servers usually ___ blue uniforms.",
+      "options": [],
+      "answer": "wear",
+      "explanation_fa": "حال ساده برای عادت",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-157",
+      "type": "fill_blank",
+      "prompt": "Today they ___ green uniforms.",
+      "options": [],
+      "answer": "are wearing",
+      "explanation_fa": "حال استمراری برای وضعیت امروز",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-158",
+      "type": "fill_blank",
+      "prompt": "We usually ___ soup for lunch. (Practice 158)",
+      "options": [],
+      "answer": "have",
+      "explanation_fa": "حال ساده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-159",
+      "type": "fill_blank",
+      "prompt": "Look! Holly ___ a menu.",
+      "options": [],
+      "answer": "is reading",
+      "explanation_fa": "حال استمراری",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-160",
+      "type": "fill_blank",
+      "prompt": "He ___ breakfast every morning.",
+      "options": [],
+      "answer": "eats",
+      "explanation_fa": "سوم‌شخص مفرد",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-161",
+      "type": "fill_blank",
+      "prompt": "They ___ having pizza right now.",
+      "options": [],
+      "answer": "are",
+      "explanation_fa": "حال استمراری",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-162",
+      "type": "fill_blank",
+      "prompt": "Yesterday we ___ to a concert.",
+      "options": [],
+      "answer": "went",
+      "explanation_fa": "گذشتهٔ go",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-163",
+      "type": "fill_blank",
+      "prompt": "Amy ___ the violin at the concert. (Practice 163)",
+      "options": [],
+      "answer": "played",
+      "explanation_fa": "گذشتهٔ باقاعده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-164",
+      "type": "fill_blank",
+      "prompt": "I ___ a dinosaur at the museum.",
+      "options": [],
+      "answer": "saw",
+      "explanation_fa": "گذشتهٔ see",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-165",
+      "type": "fill_blank",
+      "prompt": "We ___ a good time yesterday.",
+      "options": [],
+      "answer": "had",
+      "explanation_fa": "گذشتهٔ have",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-166",
+      "type": "fill_blank",
+      "prompt": "Max ___ the story was real. (Practice 166)",
+      "options": [],
+      "answer": "thought",
+      "explanation_fa": "گذشتهٔ think",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-167",
+      "type": "fill_blank",
+      "prompt": "They ___ the roar.",
+      "options": [],
+      "answer": "heard",
+      "explanation_fa": "گذشتهٔ hear",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-168",
+      "type": "fill_blank",
+      "prompt": "She ___ a scarf last week.",
+      "options": [],
+      "answer": "wore",
+      "explanation_fa": "گذشتهٔ wear",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-169",
+      "type": "fill_blank",
+      "prompt": "He ___ a letter yesterday.",
+      "options": [],
+      "answer": "wrote",
+      "explanation_fa": "گذشتهٔ write",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-170",
+      "type": "fill_blank",
+      "prompt": "___ you go to the museum yesterday? (Practice 170)",
+      "options": [],
+      "answer": "Did",
+      "explanation_fa": "پرسش گذشته",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-171",
+      "type": "fill_blank",
+      "prompt": "Did they ___ anything?",
+      "options": [],
+      "answer": "buy",
+      "explanation_fa": "شکل پایه پس از did",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-172",
+      "type": "fill_blank",
+      "prompt": "We didn't ___ the dinosaur.",
+      "options": [],
+      "answer": "see",
+      "explanation_fa": "شکل پایه پس از didn't",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-173",
+      "type": "fill_blank",
+      "prompt": "The water bottle is ___. (I)",
+      "options": [],
+      "answer": "mine",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-174",
+      "type": "fill_blank",
+      "prompt": "The red sneakers are ___. (she)",
+      "options": [],
+      "answer": "hers",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-175",
+      "type": "fill_blank",
+      "prompt": "The trophy is ___. (we)",
+      "options": [],
+      "answer": "ours",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-176",
+      "type": "fill_blank",
+      "prompt": "The backpacks are ___. (they)",
+      "options": [],
+      "answer": "theirs",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-177",
+      "type": "fill_blank",
+      "prompt": "Is this ___ jacket? (you)",
+      "options": [],
+      "answer": "your",
+      "explanation_fa": "صفت ملکی پیش از اسم",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-178",
+      "type": "fill_blank",
+      "prompt": "I play ___.",
+      "options": [],
+      "answer": "soccer",
+      "explanation_fa": "play + soccer",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-179",
+      "type": "fill_blank",
+      "prompt": "I do ___.",
+      "options": [],
+      "answer": "gymnastics",
+      "explanation_fa": "do + gymnastics",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-180",
+      "type": "fill_blank",
+      "prompt": "I go ___.",
+      "options": [],
+      "answer": "swimming",
+      "explanation_fa": "go + swimming",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-181",
+      "type": "fill_blank",
+      "prompt": "Joe ran fast, but Adam ran ___. (Practice 181)",
+      "options": [],
+      "answer": "slowly",
+      "explanation_fa": "قید چگونگی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-182",
+      "type": "fill_blank",
+      "prompt": "Can I have some juice, ___?",
+      "options": [],
+      "answer": "please",
+      "explanation_fa": "درخواست مودبانه",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-183",
+      "type": "fill_blank",
+      "prompt": "I'd like this sandwich ___ fries.",
+      "options": [],
+      "answer": "with",
+      "explanation_fa": "with یعنی همراه با",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-184",
+      "type": "fill_blank",
+      "prompt": "Can we have the ___, please?",
+      "options": [],
+      "answer": "check",
+      "explanation_fa": "صورتحساب رستوران",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-185",
+      "type": "fill_blank",
+      "prompt": "A basketball game takes place on a basketball ___.",
+      "options": [],
+      "answer": "court",
+      "explanation_fa": "واژگان ورزش",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "گرامر و واژگان",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-186",
+      "type": "short_answer",
+      "prompt": "Make a question: They usually wear blue uniforms.",
+      "options": [],
+      "answer": "Do they usually wear blue uniforms?",
+      "explanation_fa": "حال ساده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-187",
+      "type": "short_answer",
+      "prompt": "Make a negative sentence: She eats breakfast at seven.",
+      "options": [],
+      "answer": "She doesn't eat breakfast at seven.",
+      "explanation_fa": "منفی حال ساده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-188",
+      "type": "short_answer",
+      "prompt": "Make a question: He plays the violin.",
+      "options": [],
+      "answer": "Does he play the violin?",
+      "explanation_fa": "پرسش حال ساده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-189",
+      "type": "short_answer",
+      "prompt": "Make a negative sentence: They went to the museum.",
+      "options": [],
+      "answer": "They didn't go to the museum.",
+      "explanation_fa": "منفی گذشته",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-190",
+      "type": "short_answer",
+      "prompt": "Make a question: You saw a dinosaur.",
+      "options": [],
+      "answer": "Did you see a dinosaur?",
+      "explanation_fa": "پرسش گذشته",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-191",
+      "type": "short_answer",
+      "prompt": "Make a question: She bought a souvenir.",
+      "options": [],
+      "answer": "Did she buy a souvenir?",
+      "explanation_fa": "شکل پایه بعد از did",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-192",
+      "type": "short_answer",
+      "prompt": "Rewrite using a possessive pronoun: This is my water bottle.",
+      "options": [],
+      "answer": "This water bottle is mine.",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-193",
+      "type": "short_answer",
+      "prompt": "Rewrite using a possessive pronoun: These are their backpacks.",
+      "options": [],
+      "answer": "These backpacks are theirs.",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-194",
+      "type": "short_answer",
+      "prompt": "Rewrite using a possessive pronoun: That is her jacket.",
+      "options": [],
+      "answer": "That jacket is hers.",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-195",
+      "type": "short_answer",
+      "prompt": "Put in order: usually / we / soup / have / lunch / for",
+      "options": [],
+      "answer": "We usually have soup for lunch.",
+      "explanation_fa": "ترتیب جمله",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-196",
+      "type": "short_answer",
+      "prompt": "Put in order: wearing / are / today / green / they / uniforms",
+      "options": [],
+      "answer": "They are wearing green uniforms today.",
+      "explanation_fa": "حال استمراری",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-197",
+      "type": "short_answer",
+      "prompt": "Put in order: yesterday / went / we / museum / the / to",
+      "options": [],
+      "answer": "We went to the museum yesterday.",
+      "explanation_fa": "گذشتهٔ ساده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-198",
+      "type": "short_answer",
+      "prompt": "Put in order: did / what / see / you",
+      "options": [],
+      "answer": "What did you see?",
+      "explanation_fa": "پرسش گذشته",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-199",
+      "type": "short_answer",
+      "prompt": "Put in order: fast / ran / Joe",
+      "options": [],
+      "answer": "Joe ran fast.",
+      "explanation_fa": "قید",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-200",
+      "type": "short_answer",
+      "prompt": "Put in order: please / the / can / check / we / have",
+      "options": [],
+      "answer": "Can we have the check, please?",
+      "explanation_fa": "درخواست مودبانه",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-201",
+      "type": "short_answer",
+      "prompt": "Correct the sentence: Did she went to the park?",
+      "options": [],
+      "answer": "Did she go to the park?",
+      "explanation_fa": "پس از did شکل پایه می‌آید",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-202",
+      "type": "short_answer",
+      "prompt": "Correct the sentence: He don't eat breakfast.",
+      "options": [],
+      "answer": "He doesn't eat breakfast.",
+      "explanation_fa": "منفی سوم‌شخص مفرد",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-203",
+      "type": "short_answer",
+      "prompt": "Correct the sentence: These shoes are her.",
+      "options": [],
+      "answer": "These shoes are hers.",
+      "explanation_fa": "ضمیر ملکی",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-204",
+      "type": "short_answer",
+      "prompt": "Correct the sentence: We are usually have soup.",
+      "options": [],
+      "answer": "We usually have soup.",
+      "explanation_fa": "usually با حال ساده",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-205",
+      "type": "short_answer",
+      "prompt": "Correct the sentence: I sawed a dinosaur.",
+      "options": [],
+      "answer": "I saw a dinosaur.",
+      "explanation_fa": "گذشتهٔ بی‌قاعدهٔ see",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "ساخت جمله و اصلاح خطا",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-206",
+      "type": "short_answer",
+      "prompt": "According to Unit 1, what do servers usually wear?",
+      "options": [],
+      "answer": "Blue uniforms.",
+      "explanation_fa": "متن داستان Unit 1 می‌گوید پیشخدمت‌ها معمولاً لباس فرم آبی می‌پوشند.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-207",
+      "type": "short_answer",
+      "prompt": "What are the servers wearing today in the story?",
+      "options": [],
+      "answer": "Green uniforms.",
+      "explanation_fa": "در داستان، لباس فرم امروز سبز است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-208",
+      "type": "short_answer",
+      "prompt": "Name one breakfast food mentioned by Abd Allah.",
+      "options": [],
+      "answer": "Bread, jam, cheese, fuul, or an egg.",
+      "explanation_fa": "متن صبحانه چند خوراکی از جمله نان، مربا، پنیر و تخم‌مرغ را نام می‌برد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-209",
+      "type": "short_answer",
+      "prompt": "What is fuul made from?",
+      "options": [],
+      "answer": "Mashed beans.",
+      "explanation_fa": "در متن، fuul به‌عنوان لوبیای له‌شده معرفی می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-210",
+      "type": "short_answer",
+      "prompt": "What did the children make in Unit 1's project?",
+      "options": [],
+      "answer": "A photo album.",
+      "explanation_fa": "پروژهٔ درس ۱ ساخت آلبوم عکس است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-211",
+      "type": "short_answer",
+      "prompt": "Which instrument does Amy play in Unit 2?",
+      "options": [],
+      "answer": "The violin.",
+      "explanation_fa": "در متن گرامر درس ۲ آمده است: Amy played the violin.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-212",
+      "type": "short_answer",
+      "prompt": "Where was the concert in the Unit 2 story?",
+      "options": [],
+      "answer": "At their house in Australia.",
+      "explanation_fa": "در داستان آمده که کنسرت در خانه‌شان در استرالیا بود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-213",
+      "type": "short_answer",
+      "prompt": "What is the Arctic described as?",
+      "options": [],
+      "answer": "A cold and wild place.",
+      "explanation_fa": "متن مطالعات اجتماعی قطب شمال را مکانی سرد و وحشی توصیف می‌کند.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-214",
+      "type": "short_answer",
+      "prompt": "Name one place where Inuit people live, according to the text.",
+      "options": [],
+      "answer": "Alaska, Canada, Greenland, or Russia.",
+      "explanation_fa": "متن این چهار منطقه را نام می‌برد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-215",
+      "type": "short_answer",
+      "prompt": "What did the children visit in Unit 3?",
+      "options": [],
+      "answer": "A science museum.",
+      "explanation_fa": "داستان Unit 3 دربارهٔ بازدید از موزهٔ علوم است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-216",
+      "type": "short_answer",
+      "prompt": "Why did Max scream?",
+      "options": [],
+      "answer": "He thought the dinosaur was alive.",
+      "explanation_fa": "مکس فکر کرد دایناسور زنده است و جیغ زد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-217",
+      "type": "short_answer",
+      "prompt": "What helped the T-Rex move quickly?",
+      "options": [],
+      "answer": "Its strong tail.",
+      "explanation_fa": "در متن خواندنی گفته شده دم قوی به حرکت سریع کمک می‌کرد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-218",
+      "type": "short_answer",
+      "prompt": "What did the T-Rex eat, according to the text?",
+      "options": [],
+      "answer": "Meat.",
+      "explanation_fa": "در متن آمده بود که T-Rex گوشت می‌خورد.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-219",
+      "type": "short_answer",
+      "prompt": "What is the opposite of slowly in the Unit 4 grammar example?",
+      "options": [],
+      "answer": "Fast.",
+      "explanation_fa": "در مثال کتاب، Joe ran fast, but Adam ran slowly.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-220",
+      "type": "short_answer",
+      "prompt": "Which sports are named in Unit 4?",
+      "options": [],
+      "answer": "Basketball, soccer, volleyball, gymnastics, swimming, and riding a bike.",
+      "explanation_fa": "این فعالیت‌ها در بخش ورزش‌های Unit 4 دیده می‌شوند.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "درک مطلب",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-221",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “go”.",
+      "options": [
+        "went",
+        "going",
+        "goed",
+        "wents"
+      ],
+      "answer": "went",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “go” برابر “went” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-222",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “see”.",
+      "options": [
+        "seeed",
+        "saw",
+        "seeing",
+        "saws"
+      ],
+      "answer": "saw",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “see” برابر “saw” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-223",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “eat”.",
+      "options": [
+        "eated",
+        "ate",
+        "eating",
+        "ates"
+      ],
+      "answer": "ate",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “eat” برابر “ate” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-224",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “think”.",
+      "options": [
+        "thoughts",
+        "thinked",
+        "thought",
+        "thinking"
+      ],
+      "answer": "thought",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “think” برابر “thought” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-225",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “hear”.",
+      "options": [
+        "heared",
+        "heards",
+        "hearing",
+        "heard"
+      ],
+      "answer": "heard",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “hear” برابر “heard” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-226",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “wear”.",
+      "options": [
+        "wores",
+        "wore",
+        "weared",
+        "wearing"
+      ],
+      "answer": "wore",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “wear” برابر “wore” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-227",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “write”.",
+      "options": [
+        "wrote",
+        "writeed",
+        "wrotes",
+        "writeing"
+      ],
+      "answer": "wrote",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “write” برابر “wrote” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-228",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “make”.",
+      "options": [
+        "mades",
+        "makeed",
+        "makeing",
+        "made"
+      ],
+      "answer": "made",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “make” برابر “made” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-229",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “take”.",
+      "options": [
+        "took",
+        "takeed",
+        "tooks",
+        "takeing"
+      ],
+      "answer": "took",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “take” برابر “took” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-230",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “come”.",
+      "options": [
+        "came",
+        "cames",
+        "comeed",
+        "comeing"
+      ],
+      "answer": "came",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “come” برابر “came” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-231",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “get”.",
+      "options": [
+        "geting",
+        "gots",
+        "got",
+        "geted"
+      ],
+      "answer": "got",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “get” برابر “got” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-232",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “have”.",
+      "options": [
+        "haveed",
+        "had",
+        "haveing",
+        "hads"
+      ],
+      "answer": "had",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “have” برابر “had” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-233",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “buy”.",
+      "options": [
+        "boughts",
+        "bought",
+        "buyed",
+        "buying"
+      ],
+      "answer": "bought",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “buy” برابر “bought” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-234",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “find”.",
+      "options": [
+        "founds",
+        "found",
+        "finded",
+        "finding"
+      ],
+      "answer": "found",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “find” برابر “found” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-235",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “meet”.",
+      "options": [
+        "met",
+        "meeted",
+        "meeting",
+        "mets"
+      ],
+      "answer": "met",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “meet” برابر “met” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-236",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “run”.",
+      "options": [
+        "ran",
+        "runing",
+        "runed",
+        "rans"
+      ],
+      "answer": "ran",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “run” برابر “ran” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-237",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “sing”.",
+      "options": [
+        "sang",
+        "sangs",
+        "singing",
+        "singed"
+      ],
+      "answer": "sang",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “sing” برابر “sang” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-238",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “draw”.",
+      "options": [
+        "drews",
+        "drew",
+        "drawing",
+        "drawed"
+      ],
+      "answer": "drew",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “draw” برابر “drew” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-239",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “give”.",
+      "options": [
+        "gave",
+        "giveed",
+        "gaves",
+        "giveing"
+      ],
+      "answer": "gave",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “give” برابر “gave” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-240",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “drink”.",
+      "options": [
+        "drinking",
+        "drinked",
+        "dranks",
+        "drank"
+      ],
+      "answer": "drank",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “drink” برابر “drank” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-241",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “read”.",
+      "options": [
+        "reads",
+        "reading",
+        "read",
+        "readed"
+      ],
+      "answer": "read",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “read” برابر “read” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-242",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “say”.",
+      "options": [
+        "sayed",
+        "saying",
+        "saids",
+        "said"
+      ],
+      "answer": "said",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “say” برابر “said” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-243",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “tell”.",
+      "options": [
+        "telled",
+        "told",
+        "telling",
+        "tolds"
+      ],
+      "answer": "told",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “tell” برابر “told” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-244",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “win”.",
+      "options": [
+        "wining",
+        "won",
+        "wined",
+        "wons"
+      ],
+      "answer": "won",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “win” برابر “won” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-245",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “play”.",
+      "options": [
+        "played",
+        "playeds",
+        "playing",
+        "plays"
+      ],
+      "answer": "played",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “play” برابر “played” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-246",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “cheer”.",
+      "options": [
+        "cheers",
+        "cheereds",
+        "cheered",
+        "cheering"
+      ],
+      "answer": "cheered",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “cheer” برابر “cheered” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-247",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “visit”.",
+      "options": [
+        "visiteds",
+        "visits",
+        "visiting",
+        "visited"
+      ],
+      "answer": "visited",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “visit” برابر “visited” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-248",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “watch”.",
+      "options": [
+        "watched",
+        "watchs",
+        "watcheds",
+        "watching"
+      ],
+      "answer": "watched",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “watch” برابر “watched” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-249",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “listen”.",
+      "options": [
+        "listening",
+        "listens",
+        "listeneds",
+        "listened"
+      ],
+      "answer": "listened",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “listen” برابر “listened” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-250",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “walk”.",
+      "options": [
+        "walkeds",
+        "walks",
+        "walking",
+        "walked"
+      ],
+      "answer": "walked",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “walk” برابر “walked” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-251",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “look”.",
+      "options": [
+        "looked",
+        "looking",
+        "lookeds",
+        "looks"
+      ],
+      "answer": "looked",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “look” برابر “looked” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-252",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “ask”.",
+      "options": [
+        "asked",
+        "asking",
+        "askeds",
+        "asks"
+      ],
+      "answer": "asked",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “ask” برابر “asked” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-253",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “help”.",
+      "options": [
+        "helpeds",
+        "helping",
+        "helped",
+        "helps"
+      ],
+      "answer": "helped",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “help” برابر “helped” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-254",
+      "type": "multiple_choice",
+      "prompt": "Choose the simple past form of “jump”.",
+      "options": [
+        "jumpeds",
+        "jumped",
+        "jumping",
+        "jumps"
+      ],
+      "answer": "jumped",
+      "explanation_fa": "شکل گذشتهٔ سادهٔ “jump” برابر “jumped” است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past verbs",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-255",
+      "type": "multiple_choice",
+      "prompt": "Which is a correct phrase for a sport?",
+      "options": [
+        "play riding a bike",
+        "do riding a bike",
+        "go riding a bike",
+        "make riding a bike"
+      ],
+      "answer": "go riding a bike",
+      "explanation_fa": "برای فعالیت riding a bike از go استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports verbs",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-256",
+      "type": "multiple_choice",
+      "prompt": "Which is a correct phrase?",
+      "options": [
+        "play volleyball",
+        "do volleyball",
+        "go volleyball",
+        "make volleyball"
+      ],
+      "answer": "play volleyball",
+      "explanation_fa": "با volleyball از play استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports verbs",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-257",
+      "type": "multiple_choice",
+      "prompt": "Which is a correct phrase? (Practice 257)",
+      "options": [
+        "do gymnastics",
+        "play gymnastics",
+        "go gymnastics",
+        "make gymnastics"
+      ],
+      "answer": "do gymnastics",
+      "explanation_fa": "با gymnastics از do استفاده می‌کنیم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Sports verbs",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-258",
+      "type": "multiple_choice",
+      "prompt": "Which is an irregular adverb?",
+      "options": [
+        "fast",
+        "slowly",
+        "carefully",
+        "happily"
+      ],
+      "answer": "fast",
+      "explanation_fa": "fast شکل قیدی ویژه دارد و به -ly ختم نمی‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Adverbs",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-259",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Joe ran fast.",
+        "Joe ran fastly.",
+        "Joe run fast yesterday.",
+        "Joe running fast."
+      ],
+      "answer": "Joe ran fast.",
+      "explanation_fa": "fast قید مناسب برای توصیف ran است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Adverbs",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-260",
+      "type": "multiple_choice",
+      "prompt": "Choose the polite request.",
+      "options": [
+        "I'd like this sandwich, please.",
+        "I like sandwich yesterday.",
+        "Give sandwich me now.",
+        "I am sandwich, please."
+      ],
+      "answer": "I'd like this sandwich, please.",
+      "explanation_fa": "I'd like ... please ساختی مودبانه برای سفارش است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Everyday English",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-261",
+      "type": "multiple_choice",
+      "prompt": "Which word means “تماشاگران”?",
+      "options": [
+        "audience",
+        "orchestra",
+        "instrument",
+        "stage"
+      ],
+      "answer": "audience",
+      "explanation_fa": "audience یعنی تماشاگران.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 2",
+      "topic": "Vocabulary",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-262",
+      "type": "multiple_choice",
+      "prompt": "Which word means “غرش کردن”?",
+      "options": [
+        "roar",
+        "scream",
+        "learn",
+        "wear"
+      ],
+      "answer": "roar",
+      "explanation_fa": "roar یعنی غرش کردن.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "Vocabulary",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-263",
+      "type": "multiple_choice",
+      "prompt": "Which word means “لباس فرم”?",
+      "options": [
+        "uniform",
+        "menu",
+        "customer",
+        "calendar"
+      ],
+      "answer": "uniform",
+      "explanation_fa": "uniform یعنی لباس فرم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Vocabulary",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-264",
+      "type": "multiple_choice",
+      "prompt": "Which word means “جام قهرمانی”?",
+      "options": [
+        "trophy",
+        "scarf",
+        "vest",
+        "tail"
+      ],
+      "answer": "trophy",
+      "explanation_fa": "trophy یعنی جام قهرمانی.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 4",
+      "topic": "Vocabulary",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-265",
+      "type": "multiple_choice",
+      "prompt": "Which word means “آلبوم عکس”?",
+      "options": [
+        "photo album",
+        "science museum",
+        "basketball court",
+        "water bottle"
+      ],
+      "answer": "photo album",
+      "explanation_fa": "photo album یعنی آلبوم عکس.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 1",
+      "topic": "Vocabulary",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-266",
+      "type": "multiple_choice",
+      "prompt": "Which word means “دم” of an animal?",
+      "options": [
+        "tail",
+        "teeth",
+        "bone",
+        "feet"
+      ],
+      "answer": "tail",
+      "explanation_fa": "tail یعنی دم.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Unit 3",
+      "topic": "Vocabulary",
+      "difficulty": "آسان",
+      "points": 1
+    },
+    {
+      "id": "q-267",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, we ___ (jump).",
+      "options": [],
+      "answer": "jumped",
+      "explanation_fa": "گذشتهٔ سادهٔ jump برابر jumped است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-268",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “write”?",
+      "options": [
+        "Amy wrote yesterday.",
+        "Amy writes yesterday.",
+        "Amy is wrote yesterday.",
+        "Amy did wrote yesterday."
+      ],
+      "answer": "Amy wrote yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ write برابر wrote است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-269",
+      "type": "short_answer",
+      "prompt": "Make a past question using “find”: Leo ___ yesterday?",
+      "options": [],
+      "answer": "Did leo find",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-270",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, they ___ (read).",
+      "options": [],
+      "answer": "read",
+      "explanation_fa": "گذشتهٔ سادهٔ read برابر read است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-271",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “watch”?",
+      "options": [
+        "The children watched yesterday.",
+        "The children watchs yesterday.",
+        "The children is watched yesterday.",
+        "The children did watched yesterday."
+      ],
+      "answer": "The children watched yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ watch برابر watched است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-272",
+      "type": "short_answer",
+      "prompt": "Make a past question using “go”: I ___ yesterday?",
+      "options": [],
+      "answer": "Did i go",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-273",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, max ___ (make).",
+      "options": [],
+      "answer": "made",
+      "explanation_fa": "گذشتهٔ سادهٔ make برابر made است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-274",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “meet”?",
+      "options": [
+        "Holly met yesterday.",
+        "Holly meets yesterday.",
+        "Holly is met yesterday.",
+        "Holly did met yesterday."
+      ],
+      "answer": "Holly met yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ meet برابر met است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-275",
+      "type": "short_answer",
+      "prompt": "Make a past question using “say”: We ___ yesterday?",
+      "options": [],
+      "answer": "Did we say",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-276",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, amy ___ (listen).",
+      "options": [],
+      "answer": "listened",
+      "explanation_fa": "گذشتهٔ سادهٔ listen برابر listened است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-277",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “see”?",
+      "options": [
+        "Leo saw yesterday.",
+        "Leo sees yesterday.",
+        "Leo is saw yesterday.",
+        "Leo did saw yesterday."
+      ],
+      "answer": "Leo saw yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ see برابر saw است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-278",
+      "type": "short_answer",
+      "prompt": "Make a past question using “take”: They ___ yesterday?",
+      "options": [],
+      "answer": "Did they take",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-279",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, the children ___ (run).",
+      "options": [],
+      "answer": "ran",
+      "explanation_fa": "گذشتهٔ سادهٔ run برابر ran است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-280",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “tell”?",
+      "options": [
+        "I told yesterday.",
+        "I tells yesterday.",
+        "I is told yesterday.",
+        "I did told yesterday."
+      ],
+      "answer": "I told yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ tell برابر told است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-281",
+      "type": "short_answer",
+      "prompt": "Make a past question using “walk”: Max ___ yesterday?",
+      "options": [],
+      "answer": "Did max walk",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-282",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, holly ___ (eat).",
+      "options": [],
+      "answer": "ate",
+      "explanation_fa": "گذشتهٔ سادهٔ eat برابر ate است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-283",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “come”?",
+      "options": [
+        "We came yesterday.",
+        "We comes yesterday.",
+        "We is came yesterday.",
+        "We did came yesterday."
+      ],
+      "answer": "We came yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ come برابر came است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-284",
+      "type": "short_answer",
+      "prompt": "Make a past question using “sing”: Amy ___ yesterday?",
+      "options": [],
+      "answer": "Did amy sing",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-285",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, leo ___ (win).",
+      "options": [],
+      "answer": "won",
+      "explanation_fa": "گذشتهٔ سادهٔ win برابر won است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-286",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “look”?",
+      "options": [
+        "They looked yesterday.",
+        "They looks yesterday.",
+        "They is looked yesterday.",
+        "They did looked yesterday."
+      ],
+      "answer": "They looked yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ look برابر looked است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-287",
+      "type": "short_answer",
+      "prompt": "Make a past question using “think”: The children ___ yesterday?",
+      "options": [],
+      "answer": "Did the children think",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-288",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, i ___ (get).",
+      "options": [],
+      "answer": "got",
+      "explanation_fa": "گذشتهٔ سادهٔ get برابر got است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-289",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “draw”?",
+      "options": [
+        "Max drew yesterday.",
+        "Max draws yesterday.",
+        "Max is drew yesterday.",
+        "Max did drew yesterday."
+      ],
+      "answer": "Max drew yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ draw برابر drew است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-290",
+      "type": "short_answer",
+      "prompt": "Make a past question using “play”: Holly ___ yesterday?",
+      "options": [],
+      "answer": "Did holly play",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-291",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, we ___ (ask).",
+      "options": [],
+      "answer": "asked",
+      "explanation_fa": "گذشتهٔ سادهٔ ask برابر asked است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-292",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “hear”?",
+      "options": [
+        "Amy heard yesterday.",
+        "Amy hears yesterday.",
+        "Amy is heard yesterday.",
+        "Amy did heard yesterday."
+      ],
+      "answer": "Amy heard yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ hear برابر heard است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-293",
+      "type": "short_answer",
+      "prompt": "Make a past question using “have”: Leo ___ yesterday?",
+      "options": [],
+      "answer": "Did leo have",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-294",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, they ___ (give).",
+      "options": [],
+      "answer": "gave",
+      "explanation_fa": "گذشتهٔ سادهٔ give برابر gave است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-295",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “cheer”?",
+      "options": [
+        "The children cheered yesterday.",
+        "The children cheers yesterday.",
+        "The children is cheered yesterday.",
+        "The children did cheered yesterday."
+      ],
+      "answer": "The children cheered yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ cheer برابر cheered است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-296",
+      "type": "short_answer",
+      "prompt": "Make a past question using “help”: I ___ yesterday?",
+      "options": [],
+      "answer": "Did i help",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-297",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, max ___ (wear).",
+      "options": [],
+      "answer": "wore",
+      "explanation_fa": "گذشتهٔ سادهٔ wear برابر wore است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-298",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the past form of “buy”?",
+      "options": [
+        "Holly bought yesterday.",
+        "Holly buys yesterday.",
+        "Holly is bought yesterday.",
+        "Holly did bought yesterday."
+      ],
+      "answer": "Holly bought yesterday.",
+      "explanation_fa": "گذشتهٔ سادهٔ buy برابر bought است و در جملهٔ مثبت مستقیم می‌آید.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-299",
+      "type": "short_answer",
+      "prompt": "Make a past question using “drink”: We ___ yesterday?",
+      "options": [],
+      "answer": "Did we drink",
+      "explanation_fa": "برای پرسش گذشته از Did + فاعل + شکل پایهٔ فعل استفاده می‌شود.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Past questions",
+      "difficulty": "متوسط",
+      "points": 1
+    },
+    {
+      "id": "q-300",
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: Yesterday, amy ___ (visit).",
+      "options": [],
+      "answer": "visited",
+      "explanation_fa": "گذشتهٔ سادهٔ visit برابر visited است.",
+      "source": "Student Book / Grammar Friends 4 — practice item",
+      "unit": "Units 2–3",
+      "topic": "Simple past",
+      "difficulty": "متوسط",
+      "points": 1
+    }
+  ]
+}
